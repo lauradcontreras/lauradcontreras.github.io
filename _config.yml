@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student in Environmental Economics at the Paris School of Economics"
   location         : "Paris"
-  employer         : "https://www.parisschoolofeconomics.eu/fr/jegard-martin/"
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "martin.jegard@psemail.eu"
+  email            : "martin.jegard[@]psemail.eu"
   researchgate     :  
   uri              :
   bitbucket        :
