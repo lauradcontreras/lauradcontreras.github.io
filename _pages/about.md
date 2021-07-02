@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD candidate in environmental economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/) and the [University Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/). My thesis is co-supervised by [Hélène Ollivier](https://sites.google.com/site/heleneollivier/) (PSE, CNRS and [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) (PSE, Paris 1).
 
-My research projects focus on the economics of industrial pollution, exploiting both theory and an extensive range of administrative data on French plants. 
+My research projects focus on the economics of industrial pollution, exploiting both theory and an extensive range of administrative data on French plants as well as satellite datasets. 
 
 My Job Market Paper analyses the welfare effects of the spatial distribution of polluting activities and the role of local air quality policies. In particular, I show that French air quality policies could be improved by increasing their stringency in cities with higher amenities. 
 
