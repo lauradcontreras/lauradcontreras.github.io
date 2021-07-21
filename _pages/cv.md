@@ -32,7 +32,7 @@ Analysis of renewable energy deployment in the EU and updating of a database on 
 * **Intern** at the [French General Secretariat for European Affairs](https://sgae.gouv.fr/sites/SGAE/accueil.html) (Paris, France), 2016
 
 Six-month internship in the Financial & Economic Affairs Sector (FIN) - European Semester
-Reporting and participation to the European Semester, coordination process for economic & fiscal policies of European Member States - Participation to the redaction of the 2016 National Reform Program
+Reporting and participation to the European Semester, coordination process for economic & fiscal policies of European Member States - Participation to the redaction of the 2016 [National Reform Program](https://www.economie.gouv.fr/files/files/PDF/PNR2016-integral-anglais.pdf)
 
 * **Research Intern** at the [French Treasury](https://www.tresor.economie.gouv.fr/) (Paris France), 2015
 
