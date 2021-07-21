@@ -25,6 +25,10 @@ Teaching and Scientific Activity
 Work Experience
 ======
 * **Research Assistant** at the [Joint Research Center](https://ec.europa.eu/jrc/en), European Commission (Ispra, Italy), 2017-2018
+
+Five-months traineeship within the Energy Efficiency & Renewables Unit of the Energy, Transport & Climate Directorate at the Joint Research Center (European Commission).
+Analysis of renewable energy deployment in the EU and updating of a database on renewable energies, energy transition and energy policy in Member States.
+
 * **Intern** at the [French General Secretariat for European Affairs](https://sgae.gouv.fr/sites/SGAE/accueil.html) (Paris, France), 2016
 * **Research Intern** at the [French Treasury](https://www.tresor.economie.gouv.fr/) (Paris France), 2015
 * **Research Assistant** at the [International Research Center for Environment & Development](http://www.centre-cired.fr/fr/) (Paris, France), 2014
