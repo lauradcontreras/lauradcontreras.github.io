@@ -13,9 +13,15 @@ Should the largest cities be the most polluting? On the one hand, spatial concen
 
 **Estimating the Effects of Incomplete Regulation on Regulated Firms and their Competitors: An Application to the EU ETS**
 
-_Co-authored with Geoffrey Barrows, Raphael Calel & Hélène Ollivier_
+_Co-authored with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/), [Raphael Calel](https://sites.google.com/view/calel) & [Hélène Ollivier](https://sites.google.com/site/heleneollivier/)_
 
 Shocks to demand and supply often apply unevenly across firms within an industry. When evaluating the impacts of such shocks, researchers often rely on statistical methods that compare directly affected firms to “control” firms in the same industry, but in many cases, these “control” firms are affected by the shock itself via competition on the output market with directly-affected firms. While this point is widely acknowledged, there has been little effort to address it empirically. In this paper, we develop a new method for estimating both the direct effect and the indirect effect of a shock to marginal cost on some firms in an industry when products are differentiated, and firms behave strategically. We apply our method to French manufacturers under the EU ETS regulation. We find that this regulation tended to increase sales of regulated firms and reduce CO2 emission intensity. The results are consistent with the Porter hypothesis: regulation induced cost-saving investments which both lowered emission intensity and increased sales.
+
+**Impact of Atmospheric Pollution Episodes on Production: Evidence from French Manufacturing Firms**
+
+_Co-authored with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/) & [Hélène Ollivier](https://sites.google.com/site/heleneollivier/)_
+
+Local atmospheric pollution has adverse effects on workers’ individual health and productivity. However, little is known about the aggregated consequences on the economic performances of the firms where these people work. In this paper we seek to identify such firm and plant-level effects from local pollution episodes. Such estimates may be important from a policy perspective to the extent that they could reveal that economic benefits from air quality policies are larger if economy-wide impacts on production are considered in addition the pollution impact on health. Our approach relies on very disaggregated geographic information on local air quality and plant-level economic outcomes.
 
 # Journal Articles
 
