@@ -30,8 +30,18 @@ Five-months traineeship within the Energy Efficiency & Renewables Unit of the En
 Analysis of renewable energy deployment in the EU and updating of a database on renewable energies, energy transition and energy policy in Member States.
 
 * **Intern** at the [French General Secretariat for European Affairs](https://sgae.gouv.fr/sites/SGAE/accueil.html) (Paris, France), 2016
+
+Six-month internship in the Financial & Economic Affairs Sector (FIN) - European Semester
+Reporting and participation to the European Semester, coordination process for economic & fiscal policies of European Member States - Participation to the redaction of the 2016 National Reform Program
+
 * **Research Intern** at the [French Treasury](https://www.tresor.economie.gouv.fr/) (Paris France), 2015
+
+Six-month internship in European trade policy at the Multilateral & Development Affairs Office in Paris.
+Economic analysis & assessment of several European trade negotiations – Agricultural pillar in the Doha round, Environmental Goods Agreement, West-African Preferential Trade Agreement
+
 * **Research Assistant** at the [International Research Center for Environment & Development](http://www.centre-cired.fr/fr/) (Paris, France), 2014
+
+Three-months internship as a research assistant on the development of a database on international prospective energy scenarios. I worked on a co-authored [working paper](https://hal.archives-ouvertes.fr/hal-01275593/) on an historical approach to energy forecasts.
 
 Grants
 ======
@@ -40,7 +50,7 @@ Grants
   
 Conferences & Seminars
 ======
-* **2021:** Paris School of Economics, Little Informal Seminar, EAERE 2021 Annual Conference (online)
+* **2021:** Young Economist Symposium (scheduled), RIEF Network Doctoral Conference (scheduled), FAERE Annual Conference (scheduled), Paris School of Economics, Regulation & Environment Seminar (scheduled), EAERE 2021 Annual Conference (online), Paris School of Economics, Little Informal Seminar
 * **2020:** EAERE-ETH Winter School, Ascona, Switzerland
 * **2019:** EAERE Summer School, Venice, Italy
 
