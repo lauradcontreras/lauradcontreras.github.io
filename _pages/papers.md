@@ -17,7 +17,7 @@ _Co-authored with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarro
 
 Shocks to demand and supply often apply unevenly across firms within an industry. When evaluating the impacts of such shocks, researchers often rely on statistical methods that compare directly affected firms to “control” firms in the same industry, but in many cases, these “control” firms are affected by the shock itself via competition on the output market with directly-affected firms. While this point is widely acknowledged, there has been little effort to address it empirically. In this paper, we develop a new method for estimating both the direct effect and the indirect effect of a shock to marginal cost on some firms in an industry when products are differentiated, and firms behave strategically. We apply our method to French manufacturers under the EU ETS regulation. We find that this regulation tended to increase sales of regulated firms and reduce CO2 emission intensity. The results are consistent with the Porter hypothesis: regulation induced cost-saving investments which both lowered emission intensity and increased sales.
 
-**Impact of Atmospheric Pollution Episodes on Production: Evidence from French Manufacturing Firms**
+**Impact of Atmospheric Pollution on Production: Evidence from French Manufacturing Firms**
 
 _Co-authored with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/) & [Hélène Ollivier](https://sites.google.com/site/heleneollivier/)_
 
