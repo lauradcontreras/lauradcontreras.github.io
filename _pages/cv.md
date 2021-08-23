@@ -27,9 +27,7 @@ Work Experience
 * **Research Assistant** at the [Joint Research Center](https://ec.europa.eu/jrc/en), European Commission (Ispra, Italy), 2017-2018
 
 Five-months traineeship within the Energy Efficiency & Renewables Unit of the Energy, Transport & Climate Directorate at the Joint Research Center (European Commission).
-Analysis of renewable energy deployment in the EU and updating of a database on renewable energies, energy transition and energy policy in Member States.
-
-Publication of a JRC Science for Policy Report on  [Renewables in the EU: An overview of support schemes and measures](https://op.europa.eu/en/publication-detail/-/publication/83d9ab2f-647d-11e8-ab9c-01aa75ed71a1/language-en)
+Analysis of renewable energy deployment in the EU and updating of a database on renewable energies, energy transition and energy policy in Member States. Publication of a co-authored JRC Science for Policy Report on [Renewables in the EU: An overview of support schemes and measures](https://op.europa.eu/en/publication-detail/-/publication/83d9ab2f-647d-11e8-ab9c-01aa75ed71a1/language-en)
 
 * **Intern** at the [French General Secretariat for European Affairs](https://sgae.gouv.fr/sites/SGAE/accueil.html) (Paris, France), 2016
 
