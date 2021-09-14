@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martin Jégard"
 title_separator          : "-"
 name                     : &name "Martin Jégard"
-description              : &description "PhD Student in Environmental Economics at the Paris School of Economics"
+description              : &description "PhD Candidate in Environmental Economics at the Paris School of Economics"
 url                      : https://martinjegard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinjegard/martinjegard.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Martin  Jégard"
   avatar           : "pp.jpg"
-  bio              : "PhD Student in Environmental Economics at the Paris School of Economics"
+  bio              : "PhD Candidate in Environmental Economics at the Paris School of Economics"
   location         : "Paris"
   employer         : 
   pubmed           : 
