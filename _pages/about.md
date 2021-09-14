@@ -14,7 +14,7 @@ My research projects focus on the economics of industrial pollution, exploiting 
 
 My Job Market Paper analyses the welfare effects of the spatial distribution of polluting activities and the role of local air quality policies. In particular, I show that French air quality policies could be improved by increasing their stringency in cities with higher amenities. 
 
-I also work with co-authors on the impacts of the EU Emission Trading Scheme when controlling for the incompleteness of the regulation. Our work deals with the methodological issues that arise with difference in difference strategies when used to estimate the impact of incomplete regulations. We build a new estimation framework and apply it to the EU ETS, a regulation that aims at reducing the greenhouse gases emissions from industrial sectors in the EU.
+I also work with co-authors on the impacts of the EU Emission Trading Scheme. We find that this regulation tended to increase sales of regulated firms and reduce CO2 emission intensity. In this paper we also develop a new methodology to estimte direct and indirect effects of the policy when not all firms are regulated but behave strategically.
 
 You can fin a CV [here](http://martinjegard.github.io/files/cv.pdf).
 
