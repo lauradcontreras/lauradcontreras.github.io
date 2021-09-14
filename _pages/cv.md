@@ -50,7 +50,7 @@ Grants
   
 Conferences & Seminars
 ======
-* **2021:** RIEF Network Doctoral Conference (live, scheduled), FAERE Annual Conference (live, scheduled), PSE Regulation & Environment Seminar (live, scheduled), Urban Economics Association PhD Workshop (online), Young Economist Symposium (online), EAERE 2021 Annual Conference (online), PSE Little Informal Seminar (online)
+* **2021:** Urban Economics Association North American Meeting (online, scheduled), RIEF Network Doctoral Conference (live, scheduled), FAERE 8th Annual Conference (live), PSE Regulation & Environment Seminar (live), UEA PhD Workshop (online), Young Economist Symposium (online), EAERE 2021 Annual Conference (online), PSE Little Informal Seminar (online)
 * **2020:** EAERE-ETH Winter School, Ascona, Switzerland
 * **2019:** EAERE Summer School, Venice, Italy
 
