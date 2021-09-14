@@ -16,5 +16,5 @@ My Job Market Paper analyses the welfare effects of the spatial distribution of 
 
 I also work with co-authors on the impacts of the EU Emission Trading Scheme. We find that this regulation tended to increase sales of regulated firms and reduce CO2 emission intensity. In this paper we also develop a new methodology to estimte direct and indirect effects of the policy when not all firms are regulated but behave strategically.
 
-You can fin a CV [here](http://martinjegard.github.io/files/cv.pdf).
+You can fin a CV [here](http://martinjegard.github.io/files/cv_sept2021.pdf).
 
