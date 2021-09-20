@@ -7,7 +7,7 @@ author_profile: true
 
 # Work In Progress
 
-**An Optimal Distribution of Polluting Activities Across Apace: An Application to France** 
+**An Optimal Distribution of Polluting Activities Across Space: An Application to France** 
 
 _Job Market Paper_
 
