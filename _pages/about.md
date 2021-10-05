@@ -16,5 +16,5 @@ In my [Job Market Paper](https://www.dropbox.com/s/ti9nn3133jv8ckf/jmp_jegard.pd
 
 I also work with co-authors on the impacts of the EU Emission Trading Scheme. We find that this regulation tended to increase sales of regulated firms and reduce CO2 emission intensity. In this paper we also develop a new methodology to estimte direct and indirect effects of the policy when not all firms are regulated but behave strategically.
 
-You can fin a CV [here](https://www.dropbox.com/sh/o6va5qdqk6znxgt/AADHGFMovi11XuoJ5dNuz3dYa?dl=0).
+You can fin a CV [here](https://www.dropbox.com/s/pu6gvvyxrn665nv/cv_jegard.pdf?dl=0).
 
