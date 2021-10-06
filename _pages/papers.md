@@ -9,7 +9,7 @@ author_profile: true
 
 **An Optimal Distribution of Polluting Activities Across Space: An Application to France** 
 
-_Job Market Paper_
+[_Job Market Paper_](https://www.dropbox.com/s/ti9nn3133jv8ckf/jmp_jegard.pdf)
 
 Should the largest cities be the most polluting? On the one hand, spatial concentration of economic activities brings welfare gains through agglomeration economies and increased local real wages. On the other hand, aggregating too much polluting activities in the same place leads to lower air quality and detrimental effects on health and productivity of local workers. Building on a spatial general equilibrium model featuring endogenous pollution, trade, and between-cities migration, I investigate the welfare effects of the spatial heterogeneity of local stringencies resulting from current air pollutants regulations. I calibrate the model using French data and show that current emission policies target the most populated cities. As a result, these cities are less polluting and relatively larger than what they would be under a spatially homogenous policy stringency. I also find that taking into account intrinsic local productivity and amenity endowments could lead to higher welfare gains.
 
