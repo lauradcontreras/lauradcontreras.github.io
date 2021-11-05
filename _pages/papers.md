@@ -9,7 +9,7 @@ author_profile: true
 
 **An Optimal Distribution of Polluting Activities Across Space: An Application to France** 
 
-[_Job Market Paper_](https://www.dropbox.com/s/ti9nn3133jv8ckf/jmp_jegard.pdf) [_5min Video_](https://www.youtube.com/watch?v=Qk4-QYvsc3c)
+[_Job Market Paper_](https://www.dropbox.com/s/ti9nn3133jv8ckf/jmp_jegard.pdf)  [_(5min Video)_](https://www.youtube.com/watch?v=Qk4-QYvsc3c)
 
 Should air quality policies target industries within the largest cities? On the one hand, we should seek to reduce atmospheric pollutants' emissions in places where most of the population is concentrated. On the other hand, more stringent policies can hurt local industries and targeting the cities that contribute the most economically may decrease welfare. Extending recent quantitative spatial economics models, I analyze these counteracting forces. I find that when the local damages from pollution are not internalized by the industry and workers react to low air quality through migration, the largest cities can be too small. As a result, an optimal set of policies imposes higher emission taxes in these locations relative to the rest of the country. I estimate the model using French data and find that current policies impose higher costs of emissions in larger cities but raising them even higher could achieve welfare gains.
 
