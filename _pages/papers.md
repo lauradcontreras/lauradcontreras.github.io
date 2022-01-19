@@ -7,7 +7,7 @@ author_profile: true
 
 # Work In Progress
 
-**An Optimal Distribution of Polluting Activities Across Space: An Application to France** 
+**An Optimal Distribution of Polluting Activities Across Space** 
 
 [_Job Market Paper_](https://www.dropbox.com/s/ti9nn3133jv8ckf/jmp_jegard.pdf)  [_(5min Video)_](https://www.youtube.com/watch?v=Qk4-QYvsc3c)
 
