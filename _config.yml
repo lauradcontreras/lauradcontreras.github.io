@@ -11,9 +11,9 @@ title                    : "Martin Jégard"
 title_separator          : "-"
 name                     : &name "Martin Jégard"
 description              : &description "PhD Candidate in Environmental Economics at the Paris School of Economics"
-url                      : https://martinjegard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lauradcontreras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "martinjegard/martinjegard.github.io"
+repository               : "lauradcontreras/lauradcontreras.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
