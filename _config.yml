@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Martin Jégard"
+title                    : "Laura Contreras"
 title_separator          : "-"
-name                     : &name "Martin Jégard"
-description              : &description "PhD Candidate in Environmental Economics at the Paris School of Economics"
+name                     : &name "Laura Contreras Portela"
+description              : &description "I'm an M2 econ student at Aix-Marseille School of Economics."
 url                      : https://lauradcontreras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lauradcontreras/lauradcontreras.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Martin  Jégard"
+  name             : "Laura Contreras Portela"
   avatar           : "pp.jpg"
-  bio              : "PhD Candidate in Environmental Economics at the Paris School of Economics"
-  location         : "Paris"
+  bio              : "M2 econ student at Aix-Marseille School of Economics."
+  location         : "Marseille"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.fr/citations?user=XDbQ0fMAAAAJ&hl=fr&oi=sra"
-  email            : "martin.jegard[@]psemail.eu"
+  googlescholar    : 
+  email            : "laura-daniela.contreras-portela@etu.univ-amu.fr"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "lauradcontreras" 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "martinjegard/"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
