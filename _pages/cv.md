@@ -22,7 +22,8 @@ Work Experience
 
 
 * **Research Intern** at the Aix-Marseille of economics, Marseille, 2021.
-This activity fits in a research project of Professor Federico Trionfetti on the formation and evolution of urban systems which has two main objectives: (1) Provide an explanation for the size distribution of cities based on geographical features; (2) Search for evidence of multiple equilibria in the size and location of cities. The project uses archaeologic data. I prepared topographic data for the calculation concentration indices (Theil Index, K Index, etc.) to measure the economic activity concentration using Python, QGIS and R. Then, we constructed a lab experiment by drawing random points, calculating the concentration indices, and comparing with the ones already obtained. We tried to identify the least-cost path between cities based on the morphology of the land using the Global Multi-resolution Terrain Elevation Data
+* 
+This activity fits in a research project of Professor Federico Trionfetti on the formation and evolution of urban systems.
 
 
 Teaching Experience
