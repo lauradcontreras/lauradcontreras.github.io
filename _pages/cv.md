@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* M2 economics - Empirical and Theoretical Economics track at [Aix-Marseille School of economics](https://www.amse-aixmarseille.fr/fr) under the supervision of prof. [Federico Trionfetti](https://trionfetti.wordpress.com/), 2021-2022 (expected).
+* PhD in Economics at [Aix-Marseille School of economics](https://www.amse-aixmarseille.fr/fr), under the supervision of [Federico Trionfetti](https://www.amse-aixmarseille.fr/en/members/trionfetti) and [Lorenzo Rotunno](https://www.amse-aixmarseille.fr/fr/membres/rotunno)
+* M2 economics - Empirical and Theoretical Economics track at [Aix-Marseille School of economics](https://www.amse-aixmarseille.fr/fr), under the supervision of prof. [Federico Trionfetti](https://www.amse-aixmarseille.fr/en/members/trionfetti), 2021-2022.
 * M1 economics at Aix-Marseille School of economics, 2020-2021 *with Honors.*
 * BA in economics at Universidad Externado de Colombia, 2017-2021. 
 
@@ -31,7 +32,8 @@ Teaching Experience
 
 Grants
 ======
-* **AMSE Grant** for Academic Excellence Master 1 in economics, 2021-2022
-* **Scholarship of Academic Excellence for Undergraduate Studies** – Empresa de Telecomunicaciones de Bogotá, Coverage of the 100% of tution fees for undergraduate studies, 2017-2021
+* **Doctoral Grant** - Aix-Marseille Université, 2022-2025.
+* **AMSE Grant for Academic Excellence Master 1 in economics** - Aix-Marseille School of Economics, 2021-2022
+* **Scholarship of Academic Excellence for Undergraduate Studies** – Empresa de Telecomunicaciones de Bogotá, 2017-2021
   
 
