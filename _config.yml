@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Laura Daniela Contreras Portela"
+title                    : "Laura Contreras Portela"
 title_separator          : "-"
 name                     : &name "Laura Daniela Contreras Portela"
-description              : &description "I'm a PhD student at Aix-Marseille School of Economics."
+description              : &description "I'm a PhD Candidate at Aix-Marseille School of Economics."
 url                      : https://lauradcontreras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lauradcontreras/lauradcontreras.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Laura Contreras Portela"
   avatar           : "photo_git.jpg"
-  bio              : "PhD in econ student at Aix-Marseille School of Economics."
-  location         : "Marseille"
+  bio              : "PhD Candidate in Econ at Aix-Marseille School of Economics."
+  location         : "Marseille, Aix-en-provence"
   employer         : 
   pubmed           : 
   googlescholar    : 
