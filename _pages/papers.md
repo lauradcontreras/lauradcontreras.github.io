@@ -14,4 +14,4 @@ author_profile: true
 
 # Work In Progress
 
-**Cost-analysis of the free economic zones in a quantitative spatial setting** 
+**Cost-analysis of the Free Economic Zones in a quantitative spatial setting** 
