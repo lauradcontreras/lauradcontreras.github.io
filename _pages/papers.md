@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Master thesis
-**The economic geography effects of the Free Economic Zones: Evidence from Colombia** 
 
 <!-- [Paper Results](https://www.dropbox.com/s/llt731gyqubg5rt/Master%20Thesis.pdf?dl=0) 
  -->
@@ -14,4 +12,6 @@ author_profile: true
 
 # Work In Progress
 
-**Cost-analysis of the Free Economic Zones in a quantitative spatial setting** 
+** Land use and urbanization: the rise of inefficiency **
+
+** The dual faces of development: Assesing the unintended effects of industrial place-based policies on informality in Colombia** 
