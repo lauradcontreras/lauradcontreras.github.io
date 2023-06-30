@@ -12,6 +12,6 @@ author_profile: true
 
 # Work In Progress
 
-** Land use and urbanization: the rise of inefficiency **
+**Land use and urbanization: the rise of inefficiency**
 
-** The dual faces of development: Assesing the unintended effects of industrial place-based policies on informality in Colombia** 
+**The dual faces of development: Assesing the unintended effects of industrial place-based policies on informality in Colombia** 
