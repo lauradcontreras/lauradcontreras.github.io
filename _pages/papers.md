@@ -12,7 +12,7 @@ author_profile: true
 
 # Work In Progress
 
-**The dual faces of development: Assesing the unintended effects of industrial place-based policies on informality in Colombia** 
+**The Dual Faces of Development: Assessing the Unintended Effects of Place-Based Industrial Policies on Informality in Colombia**
 
 
 **Land use and urbanization: the rise of inefficiency**
