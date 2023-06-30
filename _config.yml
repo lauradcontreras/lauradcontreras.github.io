@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Laura Contreras Portela"
+title                    : "Laura Contreras-Portela"
 title_separator          : "-"
 name                     : &name "Laura Daniela Contreras Portela"
 description              : &description "I'm a PhD Candidate at Aix-Marseille School of Economics."
@@ -83,11 +83,11 @@ author:
   name             : "About"
   avatar           : "photo_git.jpg"
   bio              : "PhD Candidate in Econ at Aix-Marseille School of Economics."
-  location         : "Marseille, Aix-en-provence"
+  location         : "Marseille, Aix-en-provence, France"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "laura-daniela.contreras-portela@etu.univ-amu.fr"
+  email            : "laura.contreras-portela@univ-amu.fr"
   researchgate     :  
   uri              :
   bitbucket        :
