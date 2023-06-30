@@ -21,15 +21,12 @@ Work Experience
 ======
 
 
-* **Research Intern** at the Aix-Marseille of economics, Marseille, 2021.
-* 
-This activity fits in a research project of Professor Federico Trionfetti on the formation and evolution of urban systems.
-
+* **Research Intern** at the Aix-Marseille of economics, Marseille, 2021. Under the supervision of [Federico Trionfetti](https://www.amse-aixmarseille.fr/en/members/trionfetti)
 
 Teaching Experience
 ======
-* **Teaching Assistant** at Universidad Externado de Colombia, Linear Algebra, Bachelor’s students - Spring 2020
-* **Teaching Assistant** at Universidad Externado de Colombia, Non-linear Optimization, Bachelor’s students - 2019
+* **T.A** at Aix-Marseille Université, Bachelor’s students.  2022 - 
+* **T.A** at Universidad Externado de Colombia, Bachelor’s students.  2019 - 2020 (in Spanish)
 
 Grants
 ======
