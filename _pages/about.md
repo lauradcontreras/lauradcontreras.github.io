@@ -16,4 +16,4 @@ I'm currently working on Place-Based Policies (PBPs). I am exploring their effec
 
 My primary research and policy interests are urban economics, labor economics, and international trade.
 
-Please find my [CV](https://pages.github.com/](https://www.dropbox.com/scl/fi/yii0yucaw649sytq0sq0c/CV_Laura.pdf?rlkey=80iaqelqpkjhmfy7w5l79lg74&dl=0)https://www.dropbox.com/scl/fi/yii0yucaw649sytq0sq0c/CV_Laura.pdf?rlkey=80iaqelqpkjhmfy7w5l79lg74&dl=0) here.
+Please find my CV [here](https://www.dropbox.com/scl/fi/3115ihdkydrrqj4yoband/CV_HJ_Kim.pdf?rlkey=7iy8c5wu03mzavgt6czom6i3d&dl=0](https://www.dropbox.com/scl/fi/yii0yucaw649sytq0sq0c/CV_Laura.pdf?rlkey=ex73qtlrwx1iq2dptcwerzzb9&dl=0)https://www.dropbox.com/scl/fi/yii0yucaw649sytq0sq0c/CV_Laura.pdf?rlkey=ex73qtlrwx1iq2dptcwerzzb9&dl=0).
