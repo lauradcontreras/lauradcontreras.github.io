@@ -10,8 +10,10 @@ redirect_from:
 
 Welcome to my website! 
 
-I'm Laura Contreras-Portela, Ph.D. candidate in economics at Aix Marseille School of Economics (AMSE) and Teaching Assitant (Enseignante des travaux dirigés) at Aix-Marseille Université. 
+I'm Laura Contreras-Portela, Ph.D. Candidate in Economics at Aix Marseille School of Economics (AMSE) and Teaching Assitant (Enseignante des travaux dirigés) at Aix-Marseille Université. 
 
-I'm currently working on Place-Based Policies (PBPs). I explore their effects on labour market outcomes, city structure and environment, in a spatial economy. I'm starting this long journey, but the process is already ongoing!
+I'm currently working on Place-Based Policies (PBPs). I am exploring their effects on labor market outcomes, focusing on informality, city structure, and environment in a spatial economy. I'm starting this long journey, but the process is already ongoing!
 
-My primary research and policy interests are in urban economics, labour economics, and international trade focused on GVCs.
+My primary research and policy interests are urban economics, labor economics, and international trade.
+
+Please find my [CV]([https://pages.github.com/](https://www.dropbox.com/scl/fi/yii0yucaw649sytq0sq0c/CV_Laura.pdf?rlkey=80iaqelqpkjhmfy7w5l79lg74&dl=0)https://www.dropbox.com/scl/fi/yii0yucaw649sytq0sq0c/CV_Laura.pdf?rlkey=80iaqelqpkjhmfy7w5l79lg74&dl=0) here.
