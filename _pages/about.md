@@ -25,6 +25,7 @@ My research interests lie at the intersection of labor economics, spatial econom
 
   
 You can contact me at <a href = "mailto: laura.contreras-portela@univ-amu.fr">laura.contreras-portela@univ-amu.fr</a> 
+
 Please find my CV [here](https://drive.google.com/file/d/1OKKMxJJhPh0vdFzHn9VJoyJsiZNbUyDI/view?usp=sharing).
 </p>
 
