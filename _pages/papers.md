@@ -6,21 +6,23 @@ author_profile: true
 ---
 
 
-<!-- [Paper Results](https://www.dropbox.com/s/llt731gyqubg5rt/Master%20Thesis.pdf?dl=0) 
- -->
+
+Work in progress
+-----
+
+<br>
+
+**"Industrial Place-Based Policies and Informality: Evidence from  Colombia"**
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> This paper studies the local economic impact of the Free Economic Zones (FEZs) program established in Colombia between 2005-2018. Based on a novel data set that combines georeferenced data on FEZs, municipalities, and household characteristics, I measure the spatial effects of the creation of these zones on labor market outcomes, focusing on informality. Results show that the FEZs establishment significantly increases informality, with positive spillovers to the nearby regions, decreasing with distance. This increase is mostly driven by workers shifting from the formal to the informal sector. To rationalize these findings, I develop a spatial structural model with informality, internal trade, and labor mobility. It provides me with two mechanisms: (i) the entry channel resulting in an increase in firm entry, mainly driven by informal firms, and (ii) the formalization channel that increases the number of formal and informal firms. </font>
  
-<h2>Work in progress</h2>
+ * <font size="-0.5">Working paper upon request.</font>
+</p> 
 
-<h2><font size="-0.3"><strong>The Dual Faces of Development: Assessing the Unintended Effects of Industrial Place-Based Policies in Colombia</strong></font></h2>
+<br>
 
-<details><summary><strong> <font size="-1"> Abstract </font> </strong></summary><p style="text-align: justify">
-<font size="-1">Despite the high prevalence of developing economies implementing place-based policies, the existing literature has predominantly focused on examining their effects in developed economies. Nevertheless, the experience with place-based policies in developed countries can hardly be transferred to less-developed economies where a substantial share of their labor force is employed informally. To shed light on these, this paper examines the effects of the Free Economic Zones (FEZs) regime established in Colombia in 2005. Based on a novel data set that combines georeferenced data on FEZs, municipalities, and household characteristics, I measure the regional effects of the construction of these zones on labor market outcomes, particularly focusing on informality. Results show that FEZs significantly increase the local informality in the regions hosting a zone and spill over to the nearby municipalities. To explain these findings, I develop a quantitative spatial structural type of the Melitz model, accounting for informality as imperfectly enforced
-taxation and labor market regulations.</font>
- </p> </details>
- - <font size="-1">Working paper upon request.</font> 
+**"Caring for the unpaid caregivers"**
+<i><font size="-0.5"> with Natalia Labrador.</font></i>
 
-
- <h2><font size="-0.3"><strong>Caring for the unpaid caregivers: Evidence from Colombia </strong></font></h2>
-
-<h2><font size="-0.3"><strong>Colonial Footprints: Tracing the Path Dependence of Cities in Post-Colonial Landscapes</strong></font></h2>
-
+**"The unintended consequences of economic stratification: Evidence from Colombia"**
+<i><font size="-0.5"> with Ricardo Guzman.</font></i>
