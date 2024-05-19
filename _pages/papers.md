@@ -19,10 +19,15 @@ Work in progress
  * <font size="-0.5">Working paper upon request.</font>
 </p> 
 
+-----
+
 <br>
 
 **"Caring for the unpaid caregivers"**
 <i><font size="-0.5"> with Natalia Labrador.</font></i>
+
+-----
+<br>
 
 **"The unintended consequences of economic stratification: Evidence from Colombia"**
 <i><font size="-0.5"> with Ricardo Guzman.</font></i>
