@@ -27,21 +27,20 @@ My research interests lie at the intersection of labor economics, spatial econom
 </p>
 
 You can contact me at <a href = "mailto: laura.contreras-portela@univ-amu.fr">laura.contreras-portela@univ-amu.fr</a> 
-</font>
-
 
 <div style="display: flex; justify-content: space-between;">
     <div style="margin: 10px;">
-        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo1.png" width="300">
-        <p>Description for photo 1</p>
+        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo2.JPG" width="200">
+        <p>Valle del Cocora, Colombia</p>
     </div>
     <div style="margin: 10px;">
-        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo2.png" width="300">
-        <p>Description for photo 2</p>
-    </div>
-    <div style="margin: 10px;">
-        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo3.png" width="300">
-        <p>Description for photo 3</p>
+        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo3.JPG" width="200">
+        <p>Road trip, Colombia</p>
     </div>
 </div>
+
+</font>
+
+
+
 
