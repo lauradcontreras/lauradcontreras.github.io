@@ -30,11 +30,11 @@ You can contact me at <a href = "mailto: laura.contreras-portela@univ-amu.fr">la
 
 <div style="display: flex; justify-content: space-between;">
     <div style="margin: 10px;">
-        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo2.JPG" width="200">
+        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo2.JPG" width="500">
         <p>Valle del Cocora, Colombia</p>
     </div>
     <div style="margin: 10px;">
-        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo3.JPG" width="200">
+        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo3.JPG" width="500">
         <p>Road trip, Colombia</p>
     </div>
 </div>
