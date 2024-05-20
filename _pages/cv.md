@@ -29,11 +29,11 @@ Stunning sunsets!
 -----
 <div style="display: flex; justify-content: space-between;">
     <div style="margin: 10px;">
-        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo4.JPG" width="200">
-        <p> Santa Marta, Colombia</p>
+        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo4.jpg" width="400">
+        <p> <font size="-1">  Santa Marta, Colombia</p>
     </div>
     <div style="margin: 10px;">
-        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo5.JPG" width="200">
-        <p> Marseille, France </p>
+        <img class="img-responsive" style="margin-bottom: 10px;" src="/images/photo5.jpg" width="400">
+        <p> <font size="-1">  Marseille, France </p>
     </div>
 </div>
