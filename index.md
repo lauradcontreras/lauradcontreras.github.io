@@ -1,21 +1,15 @@
 ---
 layout: page
 title: "Welcome to my webpage!"
-permalink: 
-profile:
-  align: right
-  image: photo.jpg
-  image_circular: false # crops the image to make it circular
-  more_info:
 ---
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <!-- Additional Image (Picture) -->
-  <img src="photo.jpg" alt="Additional Image" width="400" height="500" style="margin-right: auto;"/>
+  <img src="photo.jpg" alt="Additional Image" width="266" height="333" style="margin-right: auto;"/>
   
   <!-- Main GIF Image (Resized and aligned to the right) -->
-  <img src="research.gif" alt="Main Animation" width="450" height="450" style="margin-left: auto;"/>
+  <img src="research.gif" alt="Main Animation" width="333" height="333" style="margin-left: auto;"/>
 </div>
 
  <p align="left" > 
