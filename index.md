@@ -1,6 +1,12 @@
 ---
 layout: page
-title: "Welcome to my webpage! "
+title: "Welcome to my webpage!"
+permalink: 
+profile:
+  align: right
+  image: photo.jpg
+  image_circular: false # crops the image to make it circular
+  more_info:
 ---
 
 
