@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon} #the picture is in sidebar.html
   - {file: "index.md", title: "Home"}
   - {file: "research.md" , title: "Research"}
-  - {url: "/files/contreras_CV.pdf", title: "CV"}
+  - {url: "/contreras_CV.pdf", title: "CV"}
   - {file: "teaching.md" , title: "Teaching"}
   - {file: "resources.md" , title: "Resources"}
   
