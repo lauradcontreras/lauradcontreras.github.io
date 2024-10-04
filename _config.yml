@@ -1,4 +1,4 @@
-title: " Laura Contreras-Portela"
+title: " "
 author: "Laura Contreras-Portela"
 permalink: /:title/
 description: "Aix-Marseille School of Economics"
@@ -15,14 +15,18 @@ minimal: false             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+navigation:                # accepts {file, title, url, icon, sidebaricon} #the picture is in sidebar.html
+  - {file: "index.md", title: "Home"}
+  - {file: "research.md" , title: "Research"}
+  - {url: "/files/Contreras_CV.pdf", title: "CV"}
+  - {file: "teaching.md" , title: "Teaching"}
+  - {file: "resources.md" , title: "Resources"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:laura.contreras-portela@univ-amu.fr"}
+  - {title: Github, icon: github, url: "https://github.com/lauradcontreras"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/contreraaaaas"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
