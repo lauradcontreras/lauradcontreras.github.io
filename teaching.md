@@ -16,4 +16,4 @@ layout: page
 
 3. Optimization (Spanish), Spring 2019, Fall 2019
 
-4. Linear Algebra (Spanisg), Spring 2020
+4. Linear Algebra (Spanish), Spring 2020
