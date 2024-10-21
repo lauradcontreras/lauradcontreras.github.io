@@ -15,9 +15,9 @@ layout: page
   </p> </details>
     * Scheduled
   </details>
-- Caring for the unpaid caregivers with Natalia Labrador
+- Caring for the unpaid caregivers with [Natalia Labrador](https://sites.google.com/view/natalialabradorbernate/home)
 - Unintended consequences of socioeconomic stratification with Ricardo Guzman
-- AI-Innovation and Trade: Evidence from India, with Despoina Balouktsi and Priyam Verma
+- AI-Innovation and Trade: Evidence from India, with [Despoina Balouktsi](https://sites.google.com/site/desbalouktsi/) and [Priyam Verma](https://sites.google.com/view/priyamverma)
   <details><summary>Presentation</summary><p> 
     ETSG Conference 2024
   </p> </details>
