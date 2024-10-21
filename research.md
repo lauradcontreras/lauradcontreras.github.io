@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 ---
 
-## Working papers
+## Work in progress
 - Industrial Place-Based Policies and Informality: Evidence from  Colombia\
   _Draft coming soon_
   <details><summary>Abstract</summary><p>   
@@ -15,9 +15,6 @@ layout: page
   </p> </details>
     * Scheduled
   </details>
-  
-## Work in progress
-
 - Caring for the unpaid caregivers with Natalia Labrador
 - Unintended consequences of socioeconomic stratification with Ricardo Guzman
 - AI-Innovation and Trade: Evidence from India, with Despoina Balouktsi and Priyam Verma
