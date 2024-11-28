@@ -14,7 +14,6 @@ layout: page
 2. Macroeconomics II (French), Spring 2022 and Spring 2023
 - Prof. Nicolas Gravel
 
-
 **Teaching Assistant at UEC:**
 
 3. Linear Algebra (Spanish), Spring 2020
