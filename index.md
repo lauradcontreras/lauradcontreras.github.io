@@ -10,9 +10,11 @@ title: "Welcome to my webpage"
         My research focuses on how place-based policies affect workers, households, and firms, with a particular emphasis on labor market outcomes, unpaid work, and 
         technology adoption. My work lies at the intersection of spatial economics, labor, and development, especially in the context of developing countries. 
         Another part of my recent work examines technology adoption driven by trade.
+
+        Find here my [CV](https://lauradcontreras.github.io/contreras_CV.pdf).
+        
+        - Contact: [laura.contreras-portela@univ-amu.fr](mailto:laura.contreras-portela@univ-amu.fr)
+
     </p>
 </div>
 
-Find here my [CV](https://lauradcontreras.github.io/contreras_CV.pdf).
-
- - Contact: [laura.contreras-portela@univ-amu.fr](mailto:laura.contreras-portela@univ-amu.fr)
