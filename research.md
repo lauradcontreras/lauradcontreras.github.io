@@ -1,8 +1,21 @@
 ---
-title: "Research"
-permalink: "/research/"
 layout: page
+permalink: /research/
+subtitle: Work in progress
+title: Research
+nav: true
+nav_order: 3
 ---
+###### **• LAuara** [JMP]
+<button onclick="toggleContent('abstract1')" style="padding: 2px 5px; font-size: 0.7em; border: none; outline: none;">Abstract <span id="arrow-abstract1" class="arrow" style="font-size: inherit;">▼</span></button>
+<button onclick="toggleContent('presentation1')" style="padding: 2px 5px; font-size: 0.7em; margin-left: 5px; border: none; outline: none;">Presentation <span id="arrow-presentation1" class="arrow">▼</span></button>
+
+<div id="abstract1" style="display: none;">
+    <p><p style="font-size: 0.85em; text-align: justify;"> Abstract:  </p></p>
+</div>
+<div id="presentation1" style="display: none;">
+    <p><p style="font-size: 0.85em; text-align: justify;"> Presentation: </p></p>
+</div>
 
 ## Working papers
 - The Dual Faces of Development: Industrial Place-Based Policies and Informality in Colombia
