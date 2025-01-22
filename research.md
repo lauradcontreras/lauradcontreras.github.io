@@ -4,10 +4,10 @@ permalink: "/research/"
 layout: page
 ---
 ## Working papers
-- The Dual Faces of Development: Industrial Place-Based Policies and Informality in Colombia \
+- Informality and Place-Based Policies\
   *Aggregate and individual effects of PBPs on the informal sector*
   <details><summary>Abstract</summary> <p> 
-This paper studies the local economic impact of the Free Economic Zones (FEZs) program established in Colombia between 2005-2018. Based on a novel data set that combines georeferenced data on FEZs, municipalities, and household characteristics, I measure the spatial effects of the creation of these zones on labor market outcomes, focusing on informality. Results show that establishing FEZs significantly increases informality, with positive spillovers to nearby regions and decrease in distance. To rationalize these findings, I develop a spatial structural model with informality, international trade, and firm sorting.  </p></details>
+This paper studies the local economic impact of the Free Economic Zones (FEZs) program established in Colombia between 2005-2018. Based on a novel data set that combines georeferenced data on FEZs, municipalities, and household characteristics, I measure the spatial effects of the creation of these zones on labor market outcomes, focusing on informality. Results show that establishing FEZs significantly increases informality, with positive spillovers to nearby regions and a decrease in distance. To rationalize these findings, I develop a spatial structural model with informality, international trade, and firm sorting.  </p></details>
    <details><summary>Presentation</summary> <p> 
       AMSE PhD seminar, QMUL workshop 2024, Urban Economic Association Summer School 2024, LAGV 2024, Konstanz Brown Bag Seminar, French Japanese Conference 2024, Junior Workshop ENS de Lyon 2024
   </p></details>
