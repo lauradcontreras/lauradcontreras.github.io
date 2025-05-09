@@ -4,10 +4,10 @@ permalink: "/research/"
 layout: page
 ---
 ## Working papers
-- Informality and Place-Based Policies\
+- The Unintended Consequences of Industrial Policies: Evidence from Colombia\
   *Aggregate and individual effects of PBPs on the informal sector*
   <details><summary>Abstract</summary> <p> 
-This paper studies the local economic impact of the Free Economic Zones (FEZs) program established in Colombia between 2005-2018. Based on a novel data set that combines georeferenced data on FEZs, municipalities, and household characteristics, I measure the spatial effects of the creation of these zones on labor market outcomes, focusing on informality. Results show that establishing FEZs significantly increases informality, with positive spillovers to nearby regions and a decrease in distance. To rationalize these findings, I develop a spatial structural model with informality, international trade, and firm sorting.  </p></details>
+This paper examines the local economic impact of Colombia’s Free Economic Zones (FEZs) program, implemented between 2005 and 2018. Using a novel dataset that integrates georeferenced data on FEZs, municipalities, household characteristics, and firms, I analyze the spatial effects of these zones on labor markets and firm dynamics, with a particular focus on informality. The findings reveal that FEZs significantly increase informality, with spillover effects on nearby regions but minimal impact on overall employment. While they create formal job opportunities for skilled workers and women, low-skilled workers face rising informality and wage losses. Empirically, I show that FEZs boost the profitability of high-productivity formal firms, enabling them to raise wages and expand employment. However, this also raises labor costs, forcing low-productivity formal firms to exit and increasing the productivity threshold for formal firm entry, ultimately leading to higher informality. Building on these results, I aim to develop a structural model to further rationalize and quantify these mechanisms.  </p></details>
    <details><summary>Presentation</summary> <p> 
    LSE Workshop of Early Career Women in Economic Geography and Spatial Economics, IFS-UCL-LSE/STICERD Development Seminar, Junior Workshop ENS de Lyon 2024, LAGV 2024, Konstanz Brown Bag Seminar, Urban Economic Association Summer School 2024, QMUL workshop 2024, AMSE PhD seminar
   </p></details>
