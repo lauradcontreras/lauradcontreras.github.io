@@ -3,7 +3,7 @@ layout: page
 title: "Welcome to my webpage"
 ---
 
-<img class="img-responsive" style="float: right; margin: 10px 30px 20px 10px;" src="photo.jpg" width="250" alt="Your Photo">
+<img class="img-responsive" style="float: right; margin: 10px 30px 20px 10px;" src="photo.jpg" width="300" alt="Your Photo">
 <p align="left">
 I am a Ph.D. candidate at the Aix-Marseille School of Economics (Aix-Marseille University). 
 </p>
