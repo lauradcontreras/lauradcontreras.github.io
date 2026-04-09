@@ -8,9 +8,9 @@ title: "Welcome to my webpage"
 I am a Ph.D. candidate at the Aix-Marseille School of Economics (Aix-Marseille University). 
 </p>
 
-My main research interests lie in the fields of Development Economics, Labor Economics, and International Trade. I study how place-based policies, trade, and technology interact with firm heterogeneity to shape labor markets and household well-being in developing economies.
+I work on development, trade, and labor economics. My research studies how policies and economic shocks reshape local economies in developing countries by reallocating resources across firms, workers, and households. I examine how these adjustments affect labor markets, firm dynamics, and household behavior.
 
-In Fall 2025, I will be a Visiting PhD Fellow at the World Institute for Development Economics Research, United Nations University (UNU-WIDER), in Helsinki, Finland. I would love to connect if you’re in the area!
+- In Fall 2025, I was a Visiting PhD Fellow at the World Institute for Development Economics Research, United Nations University (UNU-WIDER), in Helsinki, Finland.
 - In Spring 2025, I visited the Department of Economics at University College London, hosted by Professor Gabriel Ulyssea, and at the Center for Tax Analysis in Developing Countries (TaxDev) at the Institute for Fiscal Studies.
   
 
