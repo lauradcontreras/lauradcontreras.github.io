@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+    <style>
+      :root{
+        color-scheme: light;
+        --ground:#fffefc; --border:#e4e2df; --rule:#eceae7;
+        --ink:#1b1a19; --body:#2f2d2b; --muted:#66625d; --label:#8a8580;
+        --soft:#f6f5f3; --navon:#efeeec;
+        --accent:#00757a; --accent-dark:#00565a;
+        --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+        --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+      }
+      @media (prefers-color-scheme: dark){
+        :root{
+          color-scheme: dark;
+          --ground:#151617; --border:#2e3133; --rule:#26292b;
+          --ink:#eceae7; --body:#d5d2ce; --muted:#9b9691; --label:#8a8580;
+          --soft:#1d1f21; --navon:#232628;
+          --accent:#5cc9c0; --accent-dark:#8adfd8;
+        }
+      }
+
+      *{box-sizing:border-box}
+      html{-webkit-text-size-adjust:100%}
+      body{margin:0;background:var(--ground);color:var(--body);
+           font-family:var(--serif);font-size:16px;line-height:1.65;
+           -webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+      a{color:var(--accent);text-decoration:none}
+      a:hover{color:var(--accent-dark);text-decoration:underline}
+      :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+      img{max-width:100%}
+      hr.rule{border:0;height:1px;background:var(--rule);margin:0}
+
+      /* ---------- shell ---------- */
+      .layout{max-width:1020px;margin:0 auto;padding:44px 28px 64px;
+              display:flex;gap:44px;align-items:flex-start}
+      .side{width:262px;flex-shrink:0;display:flex;flex-direction:column;gap:20px;
+            position:sticky;top:44px}
+      .main{flex-grow:1;min-width:0;display:flex;flex-direction:column}
+      .main > * + *{margin-top:22px}
+      .main > .paper + .paper{margin-top:0}
+      .main > .sechead{margin-top:34px}
+      .main > .sechead:first-child{margin-top:0}
+
+      /* ---------- sidebar ---------- */
+      .side__id{display:flex;flex-direction:column;gap:15px}
+      .side__portrait{width:100%;border-radius:2px;display:block}
+      .side__name{font-size:23px;font-weight:600;line-height:1.18;
+                  letter-spacing:-.014em;color:var(--ink)}
+      .side__role{font-size:14px;font-weight:300;font-style:italic;
+                  color:var(--muted);line-height:1.45}
+      .side__contact{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;
+                     color:var(--muted);display:flex;flex-direction:column;gap:9px;
+                     word-break:break-word}
+      .side__social{display:flex;gap:12px;flex-wrap:wrap}
+      .btn{display:block;text-align:center;background:var(--accent);color:#fff;
+           padding:11px;border-radius:3px;font-family:var(--mono);font-size:10.5px;
+           letter-spacing:.13em;text-transform:uppercase;font-weight:500}
+      .btn:visited{color:#fff}
+      .btn:hover{background:var(--accent-dark);color:#fff;text-decoration:none}
+      @media (prefers-color-scheme: dark){
+        .btn,.btn:visited{color:#12211f}
+        .btn:hover{color:#12211f}
+      }
+      .card{background:transparent;border:1px solid var(--border);border-radius:3px}
+      .nav{padding:9px;display:flex;flex-direction:column;gap:2px}
+      .navitem{padding:8px 11px;border-radius:3px;color:var(--muted);
+               font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;
+               text-transform:uppercase;display:block}
+      .navitem:visited{color:var(--muted)}
+      .navitem:hover{background:var(--soft);color:var(--ink);text-decoration:none}
+      .navitem.on{background:var(--navon);color:var(--ink);font-weight:500}
+
+      /* ---------- main ---------- */
+      .prose{font-size:16.5px;font-weight:300;line-height:1.72;color:var(--body)}
+      .prose p{margin:0 0 1.05em}
+      .prose p:last-child{margin-bottom:0}
+      .prose strong{font-weight:600;color:var(--ink)}
+
+      .pagenav{padding:13px 17px;font-family:var(--mono);font-size:10.5px;
+               letter-spacing:.05em;color:var(--label);line-height:1.9}
+      .pagenav a{color:var(--label)}
+      .pagenav a:hover{color:var(--accent)}
+
+      .sechead{display:flex;align-items:center;gap:12px;padding:10px 2px 0}
+      .seclabel{font-family:var(--mono);font-size:10.5px;font-weight:500;
+                letter-spacing:.14em;text-transform:uppercase;color:var(--label);
+                white-space:nowrap}
+      .sechead::after{content:"";flex-grow:1;height:1px;background:var(--border)}
+
+      /* ---------- papers ---------- */
+      .paper{padding:24px 0;border-top:1px solid var(--border)}
+      .sechead + .paper{border-top:0;padding-top:14px}
+      .paper__title{font-size:19px;font-weight:500;line-height:1.38;margin:0;
+                    color:var(--ink)}
+      .paper__title a{color:var(--accent)}
+      .paper__authors{font-size:14.5px;font-weight:300;color:var(--muted);margin:.25em 0 0}
+      .paper__authors .me{font-weight:600;color:var(--body)}
+      .paper__note{font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;
+                   text-transform:uppercase;color:var(--label);margin:.5em 0 0}
+      .paper__links{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;
+                    color:var(--label);margin:.6em 0 0;line-height:1.9}
+      .paper details{margin-top:.55em}
+
+      /* ---------- toggles ---------- */
+      details>summary{list-style:none;cursor:pointer;font-family:var(--mono);
+                      font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;
+                      color:var(--accent);display:inline-block;padding:2px 0}
+      details>summary::-webkit-details-marker{display:none}
+      details>summary:hover{color:var(--accent-dark)}
+      details>summary::before{content:"+ "}
+      details[open]>summary::before{content:"\2013\00a0"}
+      .abstract{font-size:14.5px;font-weight:300;line-height:1.7;color:var(--body);
+                margin-top:10px;padding-left:16px;border-left:2px solid var(--border)}
+      .abstract p{margin:0 0 .85em}
+      .abstract p:last-child{margin-bottom:0}
+
+      /* ---------- figures ---------- */
+      .fig{position:relative;overflow:hidden;background:var(--soft);
+           border:1px solid var(--border);border-radius:2px;
+           width:100%;max-width:560px;margin:14px 0 0}
+      .fig img{display:block;width:100%;height:100%;object-fit:cover}
+      .fig .alt{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;
+                background:#fff;opacity:0;transition:opacity .35s ease}
+      .fig:hover .alt{opacity:1}
+      .fig .cue{position:absolute;left:7px;bottom:7px;font-family:var(--mono);
+                font-size:8.5px;letter-spacing:.1em;text-transform:uppercase;color:#fff;
+                background:rgba(20,20,20,.75);padding:3px 7px;border-radius:2px;
+                opacity:.94;transition:opacity .3s ease}
+      .fig:hover .cue{opacity:0}
+      .credit{max-width:560px;font-family:var(--mono);font-size:9.5px;
+              letter-spacing:.04em;color:var(--label);margin:7px 0 0;line-height:1.6}
+      .credit a{color:var(--label)}
+      @media (prefers-reduced-motion: reduce){.fig .alt,.fig .cue{transition:none}}
+
+      /* ---------- generic pages ---------- */
+      .page h2{font-size:21px;font-weight:600;line-height:1.3;margin:0 0 14px;
+               letter-spacing:-.01em;color:var(--ink)}
+      .page h2:not(:first-child){margin-top:30px}
+      .page h3{font-family:var(--mono);font-size:10.5px;font-weight:500;
+               letter-spacing:.14em;text-transform:uppercase;color:var(--label);
+               margin:26px 0 12px}
+      .page p{margin:0 0 1em;font-weight:300;line-height:1.7}
+      .page ul{margin:0 0 1em;padding-left:20px}
+      .page li{margin-bottom:.5em;font-weight:300;line-height:1.65}
+      .page hr{border:0;height:1px;background:var(--border);margin:26px 0}
+      .cvitem{margin:0 0 1.15em}
+      .cvitem .when{font-family:var(--mono);font-size:10px;letter-spacing:.08em;
+                    text-transform:uppercase;color:var(--label)}
+      .cvitem .what{font-weight:600;color:var(--ink)}
+      .cvitem .where{font-style:italic;color:var(--muted)}
+
+      .foot{font-family:var(--mono);font-size:9.5px;letter-spacing:.05em;
+            color:var(--label);padding:10px 2px 0}
+      .foot a{color:var(--label)}
+
+      /* ---------- responsive ---------- */
+      @media (max-width: 860px){
+        .layout{flex-direction:column;gap:24px;padding:26px 18px 48px}
+        .side{width:100%;position:static}
+        .side__id{flex-direction:row;flex-wrap:wrap;align-items:flex-start;gap:18px}
+        .side__portrait{width:118px;flex-shrink:0}
+        .side__idtext{display:flex;flex-direction:column;gap:15px;flex-grow:1;
+                      min-width:190px}
+        .nav{flex-direction:row;flex-wrap:wrap}
+      }
+    </style>
+  </head>
+  <body>
+    <div class="layout">
+      <aside class="side">
+        <div class="side__id">
+          <img class="side__portrait" src="{{ site.portrait | relative_url }}" alt="{{ site.author.name }}">
+          <div class="side__idtext">
+            <div>
+              <div class="side__name">Laura<br>Contreras-Portela</div>
+              <div class="side__role">{{ site.role }}</div>
+              <div class="side__role"><a href="{{ site.affiliation_url }}" target="_blank" rel="noopener">{{ site.affiliation }}</a></div>
+            </div>
+            <hr class="rule">
+            <div class="side__contact">
+              <span>{{ site.email_display }}</span>
+              <span class="side__social">
+                {%- for s in site.social %}
+                <a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>
+                {%- endfor %}
+              </span>
+            </div>
+            <a class="btn" href="{{ site.cv_url | relative_url }}" target="_blank" rel="noopener">Download CV</a>
+          </div>
+        </div>
+
+        <nav class="card nav">
+          {%- for item in site.data.nav %}
+          <a class="navitem{% if page.key == item.key %} on{% endif %}" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {%- endfor %}
+        </nav>
+      </aside>
+
+      <main class="main">
+        {{ content }}
+        <div class="foot">
+          Last updated {{ site.time | date: "%B %Y" }} · Hosted on GitHub Pages
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

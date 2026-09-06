@@ -1,56 +1,41 @@
 # lauradcontreras.github.io
 
-Personal academic website of Laura Contreras-Portela, built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) theme.
+Personal academic site. Plain Jekyll — GitHub Pages builds it natively from `master`,
+so there is no Actions workflow and no `gh-pages` branch to keep in sync.
 
 ## Where things live
 
-| What you want to change | File |
+| To change | Edit |
 | --- | --- |
-| Bio, photo caption, job-market line | `_pages/about.md` |
-| Section headings on the research page | `_pages/publications.md` |
-| Job market paper | `_bibliography/jmp.bib` |
-| Working papers | `_bibliography/working.bib` |
-| Work in progress | `_bibliography/wip.bib` |
-| Teaching | `_pages/teaching.md` |
-| CV content (rendered page) | `_data/cv.yml` |
+| Name, role, affiliation, email, CV link, social links (sidebar) | `_config.yml` |
+| The sidebar order of nav items | `_data/nav.yml` |
+| All layout and styling (one file, CSS inline) | `_layouts/default.html` |
+| Bio | `index.md` |
+| Papers | `research.md` |
+| Teaching | `teaching.md` |
+| CV page | `cv.md` |
 | CV PDF | `assets/pdf/contreras_CV.pdf` |
-| News items on the homepage | `_news/announcement_*.md` |
-| Email, X, GitHub, Scholar links | `_data/socials.yml` |
-| Co-author links | `_data/coauthors.yml` |
-| Site title, URL, feature switches | `_config.yml` |
-| Profile photo | `assets/img/prof_pic.jpg` |
+| Portrait | `assets/img/prof_pic.jpg` |
+| Paper figures | `assets/fig/` |
 
 ## Adding a paper
 
-Add a BibTeX entry to the relevant file in `_bibliography/`. Useful fields:
+Copy an existing `<div class="paper" markdown="1">` block in `research.md`. The pieces:
 
-- `abstract` — adds an expandable "Abs" button
-- `pdf` — adds a "PDF" button (a bare filename is looked up in `assets/pdf/`)
-- `html` / `website` — adds a link button
-- `abbr` — a coloured tag to the left of the entry (colours are set in `_data/venues.yml`)
-- `selected = {true}` — also shows the paper on the homepage
-- `note` — a short line under the title, e.g. `Draft available upon request`
-- `additional_info` — free markdown appended after the entry (used here for presentation lists)
+- `{: .paper__title}` — the title line
+- `{: .paper__authors}` — authors; wrap your own name in `<span class="me">`
+- `{: .paper__note}` — small uppercase status line ("Draft available upon request")
+- `<details><summary>Abstract</summary>` — collapsible panel
+- `{: .paper__links}` — the row of links at the bottom
 
-## Publishing
+## Adding a figure to a paper
 
-Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the site and pushes the
-result to the `gh-pages` branch. GitHub Pages must be set to serve from `gh-pages` / `(root)` under
-**Settings → Pages**.
+Put two images in `assets/fig/`: a context image and the results figure. Then uncomment
+the `<div class="fig">` block in that paper. The context image shows by default and the
+results figure fades in on hover. One image alone also works — drop the `.alt` line.
 
-## Previewing locally
+## Previewing
 
-With Docker:
-
-```bash
-docker compose up
-# then open http://localhost:8080
-```
-
-Or with a local Ruby toolchain:
-
-```bash
-bundle install
-bundle exec jekyll serve
-# then open http://localhost:4000
-```
+`python3 _preview.py` renders approximate HTML into `_preview/` without Ruby. It handles
+only the small Liquid subset this layout uses — good enough to check design, not a
+substitute for a real Jekyll build.

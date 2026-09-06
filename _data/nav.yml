@@ -1,0 +1,12 @@
+- title: About
+  url: /
+  key: about
+- title: Research
+  url: /research/
+  key: research
+- title: Teaching
+  url: /teaching/
+  key: teaching
+- title: CV
+  url: /cv/
+  key: cv
