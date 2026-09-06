@@ -13,7 +13,7 @@ profile:
     <p>5-9 Boulevard Maurice Bourdet</p>
     <p>13001 Marseille, France</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,11 +27,13 @@ latest_posts:
   limit: 3
 ---
 
+{% include lc_custom.liquid %}
+
 I am a PhD candidate in Economics at the [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/en) (Aix-Marseille University), supervised by Federico Trionfetti and Lorenzo Rotunno.
 
 I work on **development, trade, and labor economics**. My research studies how policies and economic shocks reshape local economies in developing countries by reallocating resources across firms, workers, and households, and how those adjustments feed back into labor markets, firm dynamics, and household behavior. Empirically, I assemble georeferenced and firm–worker linked administrative data and use quasi-experimental designs to recover causal effects.
 
-My **job market paper**, *The Unintended Consequences of Place-Based Industrial Policies: Evidence from Colombia*, shows that Special Economic Zones raise informality without expanding total employment: they reallocate rather than create local labor demand, concentrating gains among a narrow set of high-productivity firms.
+My **[job market paper]({{ '/research/' | relative_url }})**, *The Unintended Consequences of Place-Based Industrial Policies: Evidence from Colombia*, shows that Special Economic Zones raise informality without expanding total employment: they reallocate rather than create local labor demand, concentrating gains among a narrow set of high-productivity firms.
 
 **Recent visits.** In Fall 2025 I was a Visiting PhD Fellow at [UNU-WIDER](https://www.wider.unu.edu/) in Helsinki. In Spring 2025 I visited the Department of Economics at [University College London](https://www.ucl.ac.uk/economics/), hosted by Gabriel Ulyssea, and the [Centre for Tax Analysis in Developing Countries (TaxDev)](https://taxdev.org/) at the [Institute for Fiscal Studies](https://ifs.org.uk/).
 

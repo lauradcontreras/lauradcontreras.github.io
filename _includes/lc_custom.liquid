@@ -1,0 +1,191 @@
+{% comment %}
+Local overrides: teal palette + research-page styling.
+Included from _pages/*.md. Edit colours in the :root block below.
+{% endcomment %}
+<style>
+  /* ---- Palette ------------------------------------------------------- */
+  :root {
+    --lc-teal: #00787c;
+    --lc-teal-deep: #005b5e;
+    --global-theme-color: var(--lc-teal);
+    --global-hover-color: var(--lc-teal);
+    --global-code-bg-color: rgba(0, 120, 124, 0.06);
+    --lc-rule: rgba(0, 0, 0, 0.12);
+    --lc-muted: #6a6a6a;
+  }
+
+  html[data-theme="dark"] {
+    --lc-teal: #5ac8c0;
+    --lc-teal-deep: #8fded8;
+    --global-theme-color: var(--lc-teal);
+    --global-hover-color: var(--lc-teal);
+    --global-code-bg-color: rgba(90, 200, 192, 0.08);
+    --lc-rule: rgba(255, 255, 255, 0.16);
+    --lc-muted: #9a9a9a;
+  }
+
+  /* ---- Research page ------------------------------------------------- */
+  .lc-jump {
+    font-size: 0.8rem;
+    letter-spacing: 0.02em;
+    margin: 0 0 2.5rem;
+    padding-bottom: 0.7rem;
+    border-bottom: 1px solid var(--lc-rule);
+    color: var(--lc-muted);
+  }
+  .lc-jump a {
+    color: var(--lc-muted);
+    text-decoration: none;
+  }
+  .lc-jump a:hover {
+    color: var(--lc-teal);
+  }
+  .lc-jump span {
+    padding: 0 0.45rem;
+    opacity: 0.5;
+  }
+
+  h2.lc-section {
+    font-size: 0.78rem !important;
+    font-weight: 600;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: var(--lc-muted);
+    margin: 3rem 0 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--lc-rule);
+  }
+  h2.lc-section:first-of-type {
+    margin-top: 0;
+  }
+
+  .lc-paper {
+    margin-bottom: 2.6rem;
+  }
+  .lc-paper-title {
+    font-size: 1.06rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--lc-teal);
+    margin: 0 0 0.3rem;
+  }
+  .lc-paper-title a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .lc-paper-title a:hover {
+    text-decoration: underline;
+  }
+  .lc-authors {
+    font-size: 0.92rem;
+    color: var(--lc-muted);
+    margin: 0 0 0.15rem;
+  }
+  .lc-authors .me {
+    font-weight: 600;
+    color: inherit;
+  }
+  .lc-status {
+    font-size: 0.86rem;
+    font-style: italic;
+    color: var(--lc-muted);
+    margin: 0 0 0.7rem;
+  }
+
+  /* Toggles */
+  .lc-paper details {
+    margin: 0;
+    border: 0;
+  }
+  .lc-paper summary {
+    cursor: pointer;
+    list-style: none;
+    display: inline-block;
+    font-size: 0.76rem;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--lc-teal);
+    padding: 0.22rem 0;
+    user-select: none;
+  }
+  .lc-paper summary::-webkit-details-marker {
+    display: none;
+  }
+  .lc-paper summary::before {
+    content: "+ ";
+    font-weight: 600;
+  }
+  .lc-paper details[open] > summary::before {
+    content: "− ";
+  }
+  .lc-paper summary:hover {
+    color: var(--lc-teal-deep);
+  }
+  .lc-panel {
+    font-size: 0.93rem;
+    line-height: 1.62;
+    text-align: left;
+    margin: 0.4rem 0 0.9rem;
+    padding-left: 0.95rem;
+    border-left: 2px solid var(--lc-rule);
+    color: inherit;
+  }
+  .lc-panel p {
+    text-align: left;
+    margin: 0 0 0.6rem;
+  }
+  .lc-panel p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* Figures */
+  .lc-fig {
+    margin: 0.5rem 0 0.9rem;
+  }
+  .lc-fig img {
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--lc-rule);
+    border-radius: 3px;
+  }
+  .lc-fig figcaption {
+    font-size: 0.8rem;
+    color: var(--lc-muted);
+    margin-top: 0.45rem;
+    line-height: 1.5;
+  }
+
+  /* Link pills */
+  .lc-links {
+    margin: 0.55rem 0 0;
+    font-size: 0.76rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .lc-links a {
+    display: inline-block;
+    color: var(--lc-teal);
+    border: 1px solid var(--lc-teal);
+    border-radius: 3px;
+    padding: 0.16rem 0.6rem;
+    margin: 0 0.35rem 0.35rem 0;
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .lc-links a:hover {
+    background: var(--lc-teal);
+    color: #fff;
+  }
+  html[data-theme="dark"] .lc-links a:hover {
+    color: #1c1c1d;
+  }
+
+  @media (max-width: 576px) {
+    .lc-jump span {
+      padding: 0 0.25rem;
+    }
+    .lc-paper-title {
+      font-size: 1rem;
+    }
+  }
+</style>

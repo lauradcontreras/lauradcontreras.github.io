@@ -10,3 +10,5 @@ description: Full curriculum vitae. A PDF version is available above.
 toc:
   sidebar: left
 ---
+
+{% include lc_custom.liquid %}

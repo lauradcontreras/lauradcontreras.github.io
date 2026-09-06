@@ -7,7 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-## Aix-Marseille University
+{% include lc_custom.liquid %}
+
+<h2 class="lc-section">Aix-Marseille University</h2>
 
 **Industrial Organization** (undergraduate, taught in French) — Spring 2022, Spring 2023
 <br>
@@ -17,7 +19,7 @@ Teaching assistant for Prof. Lorenzo Rotunno and Hélène Laurent.
 <br>
 Teaching assistant for Prof. Nicolas Gravel.
 
-## Universidad Externado de Colombia
+<h2 class="lc-section">Universidad Externado de Colombia</h2>
 
 **Linear Algebra** (undergraduate, taught in Spanish) — Spring 2020
 
