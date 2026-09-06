@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lauradcontreras.github.io/sitemap.xml
