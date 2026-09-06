@@ -1,0 +1,131 @@
+cv:
+  name: Laura Contreras-Portela
+  label: PhD Candidate in Economics
+  email: laura.contreras-portela@univ-amu.fr
+  location: Marseille, France
+  image: ""
+  summary: >
+    PhD candidate in Economics at the Aix-Marseille School of Economics working on development,
+    trade, and labor economics, with a focus on how place-based policies reshape local labor
+    markets and firm dynamics in developing countries.
+
+  social_networks:
+    - network: X
+      username: contreraaaaas
+    - network: GitHub
+      username: lauradcontreras
+
+  sections:
+    Education:
+      - institution: Aix-Marseille School of Economics, Aix-Marseille University
+        location: Marseille, France
+        url: https://www.amse-aixmarseille.fr/en
+        area: Economics
+        studyType: PhD
+        start_date: 2022
+        end_date: 2026
+        highlights:
+          - "Supervisors: Federico Trionfetti and Lorenzo Rotunno."
+          - "Thesis: Essays in Development Economics — Labor, Care, and Innovation."
+
+      - institution: Aix-Marseille School of Economics, Aix-Marseille University
+        location: Marseille, France
+        url: https://www.amse-aixmarseille.fr/en
+        area: Economics
+        studyType: M.Sc.
+        start_date: 2020
+        end_date: 2022
+        highlights:
+          - "M1 in Economics (with honors); M2 in Empirical and Theoretical Economics."
+          - "Thesis: The economic geography effect of Free Economic Zones."
+
+      - institution: Universidad Externado de Colombia
+        location: Bogotá, Colombia
+        url: https://www.uexternado.edu.co/
+        area: Economics
+        studyType: B.A.
+        start_date: 2017
+        end_date: 2021
+
+    Visiting positions:
+      - company: UNU-WIDER (United Nations University)
+        position: Visiting PhD Fellow
+        location: Helsinki, Finland
+        url: https://www.wider.unu.edu/
+        start_date: 2025-09-01
+        end_date: 2025-12-31
+
+      - company: University College London, Department of Economics
+        position: Visiting PhD Student
+        location: London, United Kingdom
+        url: https://www.ucl.ac.uk/economics/
+        start_date: 2025-01-01
+        end_date: 2025-06-30
+        summary: Hosted by Gabriel Ulyssea.
+
+      - company: Institute for Fiscal Studies, Centre for Tax Analysis in Developing Countries (TaxDev)
+        position: Visiting PhD Student
+        location: London, United Kingdom
+        url: https://taxdev.org/
+        start_date: 2025-01-01
+        end_date: 2025-06-30
+
+    Experience:
+      - company: Aix-Marseille School of Economics
+        position: Research Assistant
+        location: Marseille, France
+        start_date: 2021-06-01
+        end_date: 2021-09-01
+        summary: "Project: The Formation and Evolution of Urban Systems (supervisor: Federico Trionfetti)."
+        highlights:
+          - Analysis of GIS and archaeological data.
+          - Construction of geographical concentration indices.
+
+    Awards:
+      - title: Doctoral Fellowship
+        awarder: Aix-Marseille School of Economics, Aix-Marseille Université
+        date: 2022
+
+      - title: AMSE Grant for Academic Excellence
+        awarder: Aix-Marseille School of Economics, Aix-Marseille Université
+        date: 2021
+        summary: Awarded for academic excellence in M1.
+
+      - title: Scholarship of Academic Excellence for Undergraduate Studies
+        awarder: Empresa de Telecomunicaciones de Bogotá (ETB)
+        date: 2017
+        summary: Awarded for the best result in the Saber 11 high-school exit examination.
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "R, Stata, Python, Matlab, QGIS, ArcGIS"
+
+      - name: Tools
+        icon: fa-solid fa-toolbox
+        keywords: "LaTeX, Power BI, MS Office"
+
+      - name: Methods
+        icon: fa-solid fa-chart-line
+        keywords: "Staggered difference-in-differences, PPML, spatial structural models, georeferenced and firm–worker linked administrative data"
+
+    Languages:
+      - name: Spanish
+        summary: "Native"
+      - name: English
+        summary: "Fluent"
+      - name: French
+        summary: "Fluent"
+
+    References:
+      - name: Federico Trionfetti — Aix-Marseille School of Economics
+        icon: fa-solid fa-envelope
+        reference: federico.trionfetti@univ-amu.fr
+
+      - name: Lorenzo Rotunno — International Monetary Fund
+        icon: fa-solid fa-envelope
+        reference: lrotunno@imf.org
+
+      - name: Juan C. Sosa — National University of Colombia
+        icon: fa-solid fa-envelope
+        reference: jcsosam@unal.edu.co

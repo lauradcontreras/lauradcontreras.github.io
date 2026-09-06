@@ -1,0 +1,14 @@
+# Co-author names are matched on the lowercased, unaccented last name.
+# The listed first-name variants are linked to the given URL in the bibliography.
+
+"labrador":
+  - firstname: ["Natalia", "N."]
+    url: https://sites.google.com/view/natalialabradorbernate/home
+
+"balouktsi":
+  - firstname: ["Despoina", "D."]
+    url: https://sites.google.com/site/desbalouktsi/home
+
+"verma":
+  - firstname: ["Priyam", "P."]
+    url: https://sites.google.com/view/priyamverma

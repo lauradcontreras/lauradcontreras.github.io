@@ -1,99 +1,56 @@
----
-title: "About"
-permalink: "/about/"
-layout: page
----
+# lauradcontreras.github.io
 
-## Installation
+Personal academic website of Laura Contreras-Portela, built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) theme.
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+## Where things live
 
-## Features
+| What you want to change | File |
+| --- | --- |
+| Bio, photo caption, job-market line | `_pages/about.md` |
+| Section headings on the research page | `_pages/publications.md` |
+| Job market paper | `_bibliography/jmp.bib` |
+| Working papers | `_bibliography/working.bib` |
+| Work in progress | `_bibliography/wip.bib` |
+| Teaching | `_pages/teaching.md` |
+| CV content (rendered page) | `_data/cv.yml` |
+| CV PDF | `assets/pdf/contreras_CV.pdf` |
+| News items on the homepage | `_news/announcement_*.md` |
+| Email, X, GitHub, Scholar links | `_data/socials.yml` |
+| Co-author links | `_data/coauthors.yml` |
+| Site title, URL, feature switches | `_config.yml` |
+| Profile photo | `assets/img/prof_pic.jpg` |
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## Adding a paper
 
-## Based on
+Add a BibTeX entry to the relevant file in `_bibliography/`. Useful fields:
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+- `abstract` — adds an expandable "Abs" button
+- `pdf` — adds a "PDF" button (a bare filename is looked up in `assets/pdf/`)
+- `html` / `website` — adds a link button
+- `abbr` — a coloured tag to the left of the entry (colours are set in `_data/venues.yml`)
+- `selected = {true}` — also shows the paper on the homepage
+- `note` — a short line under the title, e.g. `Draft available upon request`
+- `additional_info` — free markdown appended after the entry (used here for presentation lists)
 
-## Installation (jekyll-remote-theme method)
+## Publishing
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the site and pushes the
+result to the `gh-pages` branch. GitHub Pages must be set to serve from `gh-pages` / `(root)` under
+**Settings → Pages**.
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+## Previewing locally
 
-plugins:
-  - jekyll-remote-theme
+With Docker:
+
+```bash
+docker compose up
+# then open http://localhost:8080
 ```
 
-Note: to enable icons you also need to copy over the `_data` folder.
+Or with a local Ruby toolchain:
 
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
+```bash
+bundle install
+bundle exec jekyll serve
+# then open http://localhost:4000
 ```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
