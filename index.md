@@ -5,21 +5,17 @@ key: about
 ---
 
 <div class="prose" markdown="1">
+  
+**Hola! Welcome to my little corner of the internet. 👋**
 
-I am a PhD candidate in Economics at the [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/en){:target="_blank"} and Aix-Marseille University, where my research is supervised by Federico Trionfetti and Lorenzo Rotunno. Before Marseille, I completed my BA in Economics at Universidad Externado de Colombia in Bogotá.
+I am a PhD candidate in Economics at the [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/en){:target="_blank"}. During my PhD, I was a Visiting PhD Fellow at [UNU-WIDER](https://www.wider.unu.edu/){:target="_blank"} in Helsinki and visited the Department of Economics at [University College London](https://www.ucl.ac.uk/economics/){:target="_blank"} and the [Centre for Tax Analysis in Developing Countries](https://taxdev.org/){:target="_blank"} at the Institute for Fiscal Studies. I have also worked as a research consultant for the ILO.
 
 **I am on the 2026–27 economics job market.**
 
-My fields are development economics, labor economics, and international trade. I study how policies and economic shocks reshape local economies in developing countries by reallocating resources across firms, workers, and households, and how those adjustments feed back into labor markets, firm dynamics, and household behavior.
+I work on **development economics, labor economics, and international trade**. I am interested in how policies and economic shocks reshape local economies in developing countries, particularly through the reallocation of workers and resources across firms. My research also examines AI innovation, trade, digital policies and data regulation, as well as the drivers of violence within households, including intimate partner violence and violence against children. 
 
-One strand studies place-based industrial policy. Special Economic Zones are adopted almost everywhere to attract investment, yet they target a narrow set of firms; my job market paper shows that in Colombia they raised informality without expanding total employment, reallocating rather than creating local labor demand.
+In my JMP, I study how local labor markets adjust to the expansion of subsidized firms using Colombia's Free Economic Zones (FEZs), a widely used place-based industrial policy. Using municipality, firm, and worker microdata, *I show that participating firms expand substantially, yet overall employment does not.* Contrary to the view that formal-sector expansion draws workers out of informality, I find that it can instead increase informality: expanding firms hire skilled workers away from other employers, while displaced less-educated workers cannot access the new jobs.
 
-Another studies the economics of care. Unpaid care work is a binding constraint on women's time, and a large place-based care programme in Bogotá lets us ask whether relieving it changes what happens inside the household.
-
-A third looks at artificial intelligence as a technological frontier, and what trade exposure implies for where innovation happens.
-
-Empirically I build georeferenced and firm–worker linked administrative datasets and use quasi-experimental designs to recover causal effects.
-
-In Fall 2025 I was a Visiting PhD Fellow at [UNU-WIDER](https://www.wider.unu.edu/){:target="_blank"} in Helsinki. In Spring 2025 I visited the Department of Economics at [University College London](https://www.ucl.ac.uk/economics/){:target="_blank"}, hosted by Gabriel Ulyssea, and the [Centre for Tax Analysis in Developing Countries](https://taxdev.org/){:target="_blank"} at the Institute for Fiscal Studies. I have also worked as a consultant for the ILO and UNU-WIDER.
+Don’t hesitate to **reach out! :)**
 
 </div>
