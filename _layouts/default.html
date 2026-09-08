@@ -6,15 +6,26 @@
     {% seo %}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap">
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ '/assets/fonts/pagella-regular.woff2' | relative_url }}">
     <style>
+      /* TeX Gyre Pagella — the Palatino clone used by LaTeX's mathpazo.
+         GUST e-foundry, GUST Font License. Latin subset, self-hosted. */
+      @font-face{font-family:"TeX Gyre Pagella";font-style:normal;font-weight:400;font-display:swap;
+        src:url("{{ '/assets/fonts/pagella-regular.woff2' | relative_url }}") format("woff2")}
+      @font-face{font-family:"TeX Gyre Pagella";font-style:italic;font-weight:400;font-display:swap;
+        src:url("{{ '/assets/fonts/pagella-italic.woff2' | relative_url }}") format("woff2")}
+      @font-face{font-family:"TeX Gyre Pagella";font-style:normal;font-weight:700;font-display:swap;
+        src:url("{{ '/assets/fonts/pagella-bold.woff2' | relative_url }}") format("woff2")}
+      @font-face{font-family:"TeX Gyre Pagella";font-style:italic;font-weight:700;font-display:swap;
+        src:url("{{ '/assets/fonts/pagella-bolditalic.woff2' | relative_url }}") format("woff2")}
       :root{
         color-scheme: light;
         --ground:#fffefc; --border:#e4e2df; --rule:#eceae7;
         --ink:#1b1a19; --body:#2f2d2b; --muted:#66625d; --label:#8a8580;
         --soft:#f6f5f3; --navon:#efeeec;
-        --accent:#00757a; --accent-dark:#00565a;
-        --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+        --accent:#005f63; --accent-dark:#00454a;
+        --serif:"TeX Gyre Pagella",Palatino,"Palatino Linotype","Book Antiqua",Georgia,serif;
         --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
       }
       @media (prefers-color-scheme: dark){
@@ -23,14 +34,14 @@
           --ground:#151617; --border:#2e3133; --rule:#26292b;
           --ink:#eceae7; --body:#d5d2ce; --muted:#9b9691; --label:#8a8580;
           --soft:#1d1f21; --navon:#232628;
-          --accent:#5cc9c0; --accent-dark:#8adfd8;
+          --accent:#4bbdb3; --accent-dark:#79d6cd;
         }
       }
 
       *{box-sizing:border-box}
       html{-webkit-text-size-adjust:100%}
       body{margin:0;background:var(--ground);color:var(--body);
-           font-family:var(--serif);font-size:16px;line-height:1.65;
+           font-family:var(--serif);font-size:17px;line-height:1.62;
            -webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
       a{color:var(--accent);text-decoration:none}
       a:hover{color:var(--accent-dark);text-decoration:underline}
@@ -52,9 +63,9 @@
       /* ---------- sidebar ---------- */
       .side__id{display:flex;flex-direction:column;gap:15px}
       .side__portrait{width:100%;border-radius:2px;display:block}
-      .side__name{font-size:23px;font-weight:600;line-height:1.18;
+      .side__name{font-size:24px;font-weight:700;line-height:1.18;
                   letter-spacing:-.014em;color:var(--ink)}
-      .side__role{font-size:14px;font-weight:300;font-style:italic;
+      .side__role{font-size:14.5px;font-weight:400;font-style:italic;
                   color:var(--muted);line-height:1.45}
       .side__contact{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;
                      color:var(--muted);display:flex;flex-direction:column;gap:9px;
@@ -79,10 +90,10 @@
       .navitem.on{background:var(--navon);color:var(--ink);font-weight:500}
 
       /* ---------- main ---------- */
-      .prose{font-size:16.5px;font-weight:300;line-height:1.72;color:var(--body)}
+      .prose{font-size:17px;font-weight:400;line-height:1.68;color:var(--body)}
       .prose p{margin:0 0 1.05em}
       .prose p:last-child{margin-bottom:0}
-      .prose strong{font-weight:600;color:var(--ink)}
+      .prose strong{font-weight:700;color:var(--ink)}
 
       .pagenav{padding:13px 17px;font-family:var(--mono);font-size:10.5px;
                letter-spacing:.05em;color:var(--label);line-height:1.9}
@@ -98,11 +109,11 @@
       /* ---------- papers ---------- */
       .paper{padding:24px 0;border-top:1px solid var(--border)}
       .sechead + .paper{border-top:0;padding-top:14px}
-      .paper__title{font-size:19px;font-weight:500;line-height:1.38;margin:0;
+      .paper__title{font-size:19.5px;font-weight:400;line-height:1.38;margin:0;
                     color:var(--ink)}
       .paper__title a{color:var(--accent)}
-      .paper__authors{font-size:14.5px;font-weight:300;color:var(--muted);margin:.25em 0 0}
-      .paper__authors .me{font-weight:600;color:var(--body)}
+      .paper__authors{font-size:15px;font-weight:400;color:var(--muted);margin:.25em 0 0}
+      .paper__authors .me{font-weight:700;color:var(--body)}
       .paper__note{font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;
                    text-transform:uppercase;color:var(--label);margin:.5em 0 0}
       .paper__links{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;
@@ -117,7 +128,7 @@
       details>summary:hover{color:var(--accent-dark)}
       details>summary::before{content:"+ "}
       details[open]>summary::before{content:"\2013\00a0"}
-      .abstract{font-size:14.5px;font-weight:300;line-height:1.7;color:var(--body);
+      .abstract{font-size:15px;font-weight:400;line-height:1.7;color:var(--body);
                 margin-top:10px;padding-left:16px;border-left:2px solid var(--border)}
       .abstract p{margin:0 0 .85em}
       .abstract p:last-child{margin-bottom:0}
@@ -141,20 +152,20 @@
       @media (prefers-reduced-motion: reduce){.fig .alt,.fig .cue{transition:none}}
 
       /* ---------- generic pages ---------- */
-      .page h2{font-size:21px;font-weight:600;line-height:1.3;margin:0 0 14px;
+      .page h2{font-size:21px;font-weight:700;line-height:1.3;margin:0 0 14px;
                letter-spacing:-.01em;color:var(--ink)}
       .page h2:not(:first-child){margin-top:30px}
       .page h3{font-family:var(--mono);font-size:10.5px;font-weight:500;
                letter-spacing:.14em;text-transform:uppercase;color:var(--label);
                margin:26px 0 12px}
-      .page p{margin:0 0 1em;font-weight:300;line-height:1.7}
+      .page p{margin:0 0 1em;font-weight:400;line-height:1.7}
       .page ul{margin:0 0 1em;padding-left:20px}
-      .page li{margin-bottom:.5em;font-weight:300;line-height:1.65}
+      .page li{margin-bottom:.5em;font-weight:400;line-height:1.65}
       .page hr{border:0;height:1px;background:var(--border);margin:26px 0}
       .cvitem{margin:0 0 1.15em}
       .cvitem .when{font-family:var(--mono);font-size:10px;letter-spacing:.08em;
                     text-transform:uppercase;color:var(--label)}
-      .cvitem .what{font-weight:600;color:var(--ink)}
+      .cvitem .what{font-weight:700;color:var(--ink)}
       .cvitem .where{font-style:italic;color:var(--muted)}
 
       .foot{font-family:var(--mono);font-size:9.5px;letter-spacing:.05em;
