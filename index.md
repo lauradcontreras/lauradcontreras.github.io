@@ -8,7 +8,7 @@ key: about
   
 **Hola! Welcome to my little corner of the internet. 👋**
 
-I am a PhD candidate in Economics at the [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/en){:target="_blank"}. During my PhD, I was a Visiting PhD Fellow at [UNU-WIDER](https://www.wider.unu.edu/){:target="_blank"} in Helsinki and visited the Department of Economics at [University College London](https://www.ucl.ac.uk/economics/){:target="_blank"} and the [Centre for Tax Analysis in Developing Countries](https://taxdev.org/){:target="_blank"} at the Institute for Fiscal Studies. I have also worked as a research consultant for the ILO.
+I am a PhD candidate in Economics at the [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/en){:target="_blank"} and an adjunct lecturer at [Kedge Business School](https://student.kedge.edu/){:target="_blank"} . During my PhD, I was a Visiting PhD Fellow at [UNU-WIDER](https://www.wider.unu.edu/){:target="_blank"} in Helsinki and visited the Department of Economics at [University College London](https://www.ucl.ac.uk/economics/){:target="_blank"} and the [Centre for Tax Analysis in Developing Countries](https://taxdev.org/){:target="_blank"} at the Institute for Fiscal Studies. I have also worked as a research consultant for the ILO.
 
 **I am on the 2026–27 economics job market.**
 
