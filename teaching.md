@@ -12,7 +12,7 @@ permalink: /teaching/
 <div class="cvitem" markdown="1">
 <span class="what">International Finance</span> — taught in English
 <span class="when">2026</span>
-<span class="where">Adjunct lecturer · [course website and slides](https://lauradcontreras.github.io/international-finance-kedge/)</span>
+<span class="where">Adjunct lecturer · [course page and slides]({{ '/teaching/international-finance/' | relative_url }})</span>
 </div>
 
 ### Aix-Marseille University
