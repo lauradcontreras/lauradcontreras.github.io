@@ -33,44 +33,43 @@ Slides open in the browser. `→` and `←` move between them, `O` gives the
 overview, `F` is fullscreen, and `E` then print produces a PDF. A PDF handout is
 linked next to each session.
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">1 · The international financial system</span>
 <span class="where">[Slides](https://lauradcontreras.github.io/international-finance-kedge/01-international-financial-system/01-international-financial-system.html){:target="_blank"} · [PDF](https://lauradcontreras.github.io/international-finance-kedge/01-international-financial-system/01-international-financial-system.pdf){:target="_blank"}</span>
 </div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">2 · The international financial system, continued</span>
 <span class="where">To come</span>
 </div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">3–4 · Securities markets</span>
 <span class="where">To come</span>
 </div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">5–6 · Financial institutions and firms</span>
 <span class="where">To come</span>
 </div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">7 · Regulation</span>
 <span class="where">Individual assignment</span>
 </div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">8 · Security analysis</span>
 <span class="where">Group presentations, in groups of five</span>
 </div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">9 · Regulation</span>
 <span class="where">To come</span>
 </div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">10 · Final examination</span>
-<span class="where"></span>
 </div>
 
 <div class="sechead" id="readings"><span class="seclabel">Readings</span></div>
@@ -83,29 +82,29 @@ Read the paper **before** the session it belongs to.
 
 <div class="sechead" id="assessment"><span class="seclabel">Assessment</span></div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">Individual assignment — 20%</span>
-<span class="when">Session 7</span>
 <span class="where">20 minutes, no documents allowed</span>
+<span class="when">Session 7</span>
 </div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">Group work, security analysis — 40%</span>
-<span class="when">Session 8</span>
 <span class="where">Groups of five, 12-minute presentation</span>
+<span class="when">Session 8</span>
 </div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">Final examination — 40%</span>
-<span class="when">Session 10</span>
 <span class="where">Individual, written, documents allowed</span>
+<span class="when">Session 10</span>
 </div>
 
 A calculator is required for most sessions.
 
 <div class="sechead" id="announcements"><span class="seclabel">Announcements</span></div>
 
-<div class="cvitem" markdown="1">
+<div class="cvitem stack" markdown="1">
 <span class="what">Before session 1</span>
 <span class="where">Read Monasterolo (2020). Bring a calculator. Start thinking about a security you might analyse for the group work — a specific one, with a ticker.</span>
 </div>
