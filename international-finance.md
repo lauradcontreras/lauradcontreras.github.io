@@ -74,7 +74,7 @@ Please read each paper **before the corresponding session**.
 - **Session 2** — Monasterolo, I. (2020), [*Climate Change and the Financial System*](https://www.annualreviews.org/docserver/fulltext/resource/12/1/annurev-resource-110119-031134.pdf?expires=1788964584&id=id&accname=guest&checksum=4408CBC7A9F5E1E1ECD8BCE5667B6E7E), *Annual Review of Resource Economics*, 12.
 - **Sessions 3–4** — Sartzetakis, E. S. (2021), [*Green Bonds as an Instrument to Finance Low-Carbon Transition*](https://link.springer.com/article/10.1007/s10644-020-09266-9), *Economic Change and Restructuring*, 54.
 - **Sessions 5–6** — Muñoz, F. (2020), [*How Do the Size and Independence of the Board of Trustees Affect the Financial and Sustainable Performance of Socially Responsible Mutual Funds?*](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.1930), *Corporate Social Responsibility and Environmental Management*, 27(4).
-- 
+  
 <div class="sechead" id="assessment"><span class="seclabel">Assessment</span></div>
 
 <div class="cvitem stack" markdown="1">
