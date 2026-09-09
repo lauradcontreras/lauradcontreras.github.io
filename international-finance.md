@@ -84,20 +84,20 @@ Read the paper **before** the session it belongs to.
 
 <div class="cvitem stack" markdown="1">
 <span class="what">Individual assignment — 20%</span>
-<span class="when">Session 7</span>
 <span class="where">20 minutes, no documents allowed</span>
+<span class="when">Session 7</span>
 </div>
 
 <div class="cvitem stack" markdown="1">
 <span class="what">Group work, security analysis — 40%</span>
-<span class="when">Session 8</span>
 <span class="where">Groups of five, 12-minute presentation</span>
+<span class="when">Session 8</span>
 </div>
 
 <div class="cvitem stack" markdown="1">
 <span class="what">Final examination — 40%</span>
-<span class="when">Session 10</span>
 <span class="where">Individual, written, documents allowed</span>
+<span class="when">Session 10</span>
 </div>
 
 A calculator is required for most sessions.
