@@ -15,11 +15,9 @@ permalink: /teaching/international-finance/
 
 ### Kedge Business School · 2026
 
-The course builds a set of operational models of how international financial
-markets work, and then spends most of its time on where they break —
-informational efficiency, financial crises, regulation and behavioural finance,
-mostly through papers. A second objective is what a more responsible practice of
-finance would look like after 2008.
+This course provides students with the tools to understand how international financial markets work and the key issues surrounding their regulation. Through theoretical models and academic papers, we examine topics including informational efficiency, financial crises, financial regulation, and behavioral finance.
+
+A central focus is the Global Financial Crisis of 2008–2010 and how it challenged some of the core ideas of financial economics, including risk diversification, informational efficiency, and asset valuation. The course uses these debates to critically examine the limitations of the dominant financial economics paradigm and to encourage a more responsible approach to the practice of finance.
 
 No textbook. Reference: Mishkin, F.S. & Eakins, S.G. (2008), *Financial Markets
 and Institutions*, 7th ed., Pearson. Course description and announcements are on
@@ -29,9 +27,7 @@ and Institutions*, 7th ed., Pearson. Course description and announcements are on
 
 <div class="sechead" id="sessions"><span class="seclabel">Sessions</span></div>
 
-Slides open in the browser. `→` and `←` move between them, `O` gives the
-overview, `F` is fullscreen, and `E` then print produces a PDF. A PDF handout is
-linked next to each session.
+Slides: Open the slides in your browser and use → / ← to navigate or O for an overview. A PDF version is available next to each session.
 
 <div class="cvitem stack" markdown="1">
 <span class="what">1 · The international financial system</span>
@@ -73,13 +69,12 @@ linked next to each session.
 </div>
 
 <div class="sechead" id="readings"><span class="seclabel">Readings</span></div>
+Please read each paper **before the corresponding session**.
 
-Read the paper **before** the session it belongs to.
-
-- Sessions 1–2 — Monasterolo, I. (2020), *Climate Change and the Financial System*, **Annual Review of Resource Economics** 12
-- Sessions 3–4 — Sartzetakis, E.S. (2021), *Green bonds as an instrument to finance low carbon transition*, **Economic Change and Restructuring** 54
-- Sessions 5–6 — Muñoz, F. (2020), *How do the size and independence of the board of trustees affect the financial and sustainable performance of socially responsible mutual funds?*, **Corporate Social Responsibility and Environmental Management** 27(4)
-
+- **Session 2** — Monasterolo, I. (2020), [*Climate Change and the Financial System*](https://www.annualreviews.org/docserver/fulltext/resource/12/1/annurev-resource-110119-031134.pdf?expires=1788964584&id=id&accname=guest&checksum=4408CBC7A9F5E1E1ECD8BCE5667B6E7E), *Annual Review of Resource Economics*, 12.
+- **Sessions 3–4** — Sartzetakis, E. S. (2021), [*Green Bonds as an Instrument to Finance Low-Carbon Transition*](https://link.springer.com/article/10.1007/s10644-020-09266-9), *Economic Change and Restructuring*, 54.
+- **Sessions 5–6** — Muñoz, F. (2020), [*How Do the Size and Independence of the Board of Trustees Affect the Financial and Sustainable Performance of Socially Responsible Mutual Funds?*](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.1930), *Corporate Social Responsibility and Environmental Management*, 27(4).
+- 
 <div class="sechead" id="assessment"><span class="seclabel">Assessment</span></div>
 
 <div class="cvitem stack" markdown="1">
@@ -105,8 +100,8 @@ A calculator is required for most sessions.
 <div class="sechead" id="announcements"><span class="seclabel">Announcements</span></div>
 
 <div class="cvitem stack" markdown="1">
-<span class="what">Before session 1</span>
-<span class="where">Read Monasterolo (2020). Bring a calculator. Start thinking about a security you might analyse for the group work — a specific one, with a ticker.</span>
+<span class="what">Before session 2</span>
+<span class="where">Read Monasterolo (2020). Bring a calculator. Start thinking about a security you might analyze for the group work — a specific one, with a ticker.</span>
 </div>
 
 <hr>
