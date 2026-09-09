@@ -7,6 +7,14 @@ permalink: /teaching/
 
 <div class="page" markdown="1">
 
+### Kedge Business School
+
+<div class="cvitem" markdown="1">
+<span class="what">International Finance</span> — taught in English
+<span class="when">2026</span>
+<span class="where">Adjunct lecturer · [course website and slides](https://lauradcontreras.github.io/international-finance-kedge/)</span>
+</div>
+
 ### Aix-Marseille University
 
 <div class="cvitem" markdown="1">
