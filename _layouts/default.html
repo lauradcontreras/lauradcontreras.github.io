@@ -168,6 +168,11 @@
       .cvitem .what{font-weight:700;color:var(--ink)}
       .cvitem .where{font-style:italic;color:var(--muted)}
 
+      /* stacked variant: date sits inline after the title, role drops below */
+      .cvitem.stack .when{display:inline;margin-left:.55em}
+      .cvitem.stack .where{display:block;margin-top:.55em}
+      .cvitem.stack .link{display:block;margin-top:.35em}
+
       .foot{font-family:var(--mono);font-size:9.5px;letter-spacing:.05em;
             color:var(--label);padding:10px 2px 0}
       .foot a{color:var(--label)}
