@@ -17,11 +17,12 @@ permalink: /teaching/international-finance/
 
 This course provides students with the tools to understand how international financial markets work and the key issues surrounding their regulation. Through theoretical models and academic papers, we examine topics including informational efficiency, financial crises, financial regulation, and behavioral finance.
 
-A central focus is the Global Financial Crisis of 2008–2010 and how it challenged some of the core ideas of financial economics, including risk diversification, informational efficiency, and asset valuation. The course uses these debates to critically examine the limitations of the dominant financial economics paradigm and to encourage a more responsible approach to the practice of finance.
+A central focus is the Global Financial Crisis of 2008–2010 and how it challenged core ideas in financial economics, including risk diversification, informational efficiency, and asset valuation. The course uses these debates to critically examine the limitations of the dominant financial economics paradigm and to encourage a more responsible approach to the practice of finance.
 
 No textbook. Reference: Mishkin, F.S. & Eakins, S.G. (2008), *Financial Markets
-and Institutions*, 7th ed., Pearson. Course description and announcements are on
-[LEARN](http://learn.kedgebs.com){:target="_blank"}.
+and Institutions*, 7th ed., Pearson.
+
+Course description and announcements are also on [LEARN](http://learn.kedgebs.com){:target="_blank"}.
 
 <hr>
 
