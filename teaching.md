@@ -13,7 +13,7 @@ permalink: /teaching/
 <span class="what">International Finance</span> — IBBA · (English)
 <span class="when">2026</span>
 <span class="where">Lecturer</span>
-<span class="link">[Course website and slides]({{ '/teaching/international-finance/' | relative_url }})</span>
+<span class="link">[Course website and slides](https://lauradcontreras.github.io/international-finance-kedge/)</span>
 </div>
 
 ### Aix-Marseille University
