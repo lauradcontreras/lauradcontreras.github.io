@@ -43,4 +43,4 @@ exclude:
 # Analytics
 # GoatCounter site code — the part before ".goatcounter.com" in your dashboard URL.
 # Leave blank to run the site with no analytics at all.
-goatcounter_code: ""
+goatcounter_code: "lauradcontreras"
