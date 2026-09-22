@@ -246,5 +246,15 @@
         </div>
       </main>
     </div>
+
+    {%- comment -%}
+      GoatCounter: privacy-friendly, cookieless visit counts.
+      Set goatcounter_code in _config.yml to switch it on; blank = no script,
+      and it only loads in a production build, so local previews aren't counted.
+    {%- endcomment -%}
+    {%- if site.goatcounter_code and jekyll.environment == "production" %}
+    <script data-goatcounter="https://{{ site.goatcounter_code }}.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
+    {%- endif %}
   </body>
 </html>
