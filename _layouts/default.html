@@ -130,7 +130,11 @@
       .paper__row{display:flex;flex-wrap:wrap;align-items:baseline;
                   column-gap:14px;row-gap:2px;margin:.6em 0 0}
       .paper__row > details{margin:0}
-      .paper__row > details[open]{flex:1 0 100%}
+      /* without JS the panel just opens inline, below its own toggle */
+      .paper__row:not(.js) > details[open]{flex:1 0 100%}
+      /* with JS the panels are lifted out here, so the row never breaks up */
+      .paper__panels{margin:0}
+      .paper__panel[hidden]{display:none}
       .paper__row > .paper__links{margin:0;font-family:var(--serif);font-size:15px;
                                   letter-spacing:0;text-transform:none;line-height:1.5}
       .paper__row > .paper__links a::before{content:"["}
@@ -267,5 +271,28 @@
     <script data-goatcounter="https://{{ site.goatcounter_code }}.goatcounter.com/count"
             async src="//gc.zgo.at/count.js"></script>
     {%- endif %}
+    <script>
+      // Lift each toggle's panel out of the controls row so opening one does not
+      // push the other controls down. Without JS the <details> still work, they
+      // just open inline.
+      (function () {
+        document.querySelectorAll(".paper__row").forEach(function (row) {
+          var panels = document.createElement("div");
+          panels.className = "paper__panels";
+          row.classList.add("js");
+          row.parentNode.insertBefore(panels, row.nextSibling);
+          row.querySelectorAll(":scope > details").forEach(function (d) {
+            var box = document.createElement("div");
+            box.className = "paper__panel";
+            while (d.lastElementChild && d.lastElementChild.tagName !== "SUMMARY") {
+              box.insertBefore(d.lastElementChild, box.firstChild);
+            }
+            box.hidden = !d.open;
+            panels.appendChild(box);
+            d.addEventListener("toggle", function () { box.hidden = !d.open; });
+          });
+        });
+      })();
+    </script>
   </body>
 </html>
