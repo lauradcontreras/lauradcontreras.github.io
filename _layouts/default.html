@@ -128,19 +128,23 @@
 
       /* toggles + paper link on one row; an opened panel takes its own line */
       .paper__row{display:flex;flex-wrap:wrap;align-items:baseline;
-                  column-gap:20px;row-gap:2px;margin:.6em 0 0}
+                  column-gap:14px;row-gap:2px;margin:.6em 0 0}
       .paper__row > details{margin:0}
       .paper__row > details[open]{flex:1 0 100%}
-      .paper__row > .paper__links{margin:0;text-transform:uppercase;letter-spacing:.12em}
+      .paper__row > .paper__links{margin:0;font-family:var(--serif);font-size:15px;
+                                  letter-spacing:0;text-transform:none;line-height:1.5}
+      .paper__row > .paper__links a::before{content:"["}
+      .paper__row > .paper__links a::after{content:"]"}
 
       /* ---------- toggles ---------- */
-      details>summary{list-style:none;cursor:pointer;font-family:var(--mono);
-                      font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;
+      details>summary{list-style:none;cursor:pointer;font-family:var(--serif);
+                      font-size:15px;letter-spacing:0;font-weight:700;
                       color:var(--accent);display:inline-block;padding:2px 0}
       details>summary::-webkit-details-marker{display:none}
       details>summary:hover{color:var(--accent-dark)}
-      details>summary::before{content:"+ "}
-      details[open]>summary::before{content:"\2013\00a0"}
+      details>summary::before{content:"\25B8\00a0["}
+      details>summary::after{content:"]"}
+      details[open]>summary::before{content:"\25BE\00a0["}
       .abstract{font-size:15px;font-weight:400;line-height:1.7;color:var(--body);
                 margin-top:10px;padding-left:16px;border-left:2px solid var(--border)}
       .abstract p{margin:0 0 .85em}
