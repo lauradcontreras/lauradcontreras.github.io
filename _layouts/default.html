@@ -126,6 +126,13 @@
                     color:var(--label);margin:.6em 0 0;line-height:1.9}
       .paper details{margin-top:.55em}
 
+      /* toggles + paper link on one row; an opened panel takes its own line */
+      .paper__row{display:flex;flex-wrap:wrap;align-items:baseline;
+                  column-gap:20px;row-gap:2px;margin:.6em 0 0}
+      .paper__row > details{margin:0}
+      .paper__row > details[open]{flex:1 0 100%}
+      .paper__row > .paper__links{margin:0;text-transform:uppercase;letter-spacing:.12em}
+
       /* ---------- toggles ---------- */
       details>summary{list-style:none;cursor:pointer;font-family:var(--mono);
                       font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;
