@@ -15,6 +15,7 @@ so there is no Actions workflow and no `gh-pages` branch to keep in sync.
 | Teaching | `teaching.md` |
 | CV page | `cv.md` |
 | CV PDF | `assets/pdf/contreras_CV.pdf` |
+| JMP PDF | `files/ContrerasPortela_JMP.pdf` |
 | Portrait | `assets/img/prof_pic.jpg` |
 | Paper figures | `assets/fig/` |
 

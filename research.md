@@ -40,7 +40,7 @@ SPANDE 2026\*, European Development Economics Group (EDEG) Conference 2026, EAYE
 </div>
 </details>
 
-[Paper]({{ '/assets/pdf/contreras_JMP.pdf' | relative_url }}){:target="_blank"}
+[Paper]({{ '/files/ContrerasPortela_JMP.pdf' | relative_url }}){:target="_blank"}
 {: .paper__links}
 
 </div>
