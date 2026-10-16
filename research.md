@@ -56,9 +56,6 @@ SPANDE 2026\*, European Development Economics Group (EDEG) Conference 2026, EAYE
 with [Natalia Labrador](https://sites.google.com/view/natalialabradorbernate/home){:target="_blank"}
 {: .paper__authors}
 
-Draft coming soon!
-{: .paper__note}
-
 <div class="paper__row" markdown="1">
 
 <details><summary>Abstract</summary>
@@ -72,6 +69,9 @@ Domestic violence against women and children is persistent worldwide. This paper
 LISER Gender and Economics Workshop\*, AMSE DEVPOL Informal Seminar.
 </div>
 </details>
+
+[Paper](https://www.dropbox.com/scl/fi/5dv5f0to6xgoqum8sleqb/CH2_v1026.pdf?rlkey=c7r6j1tnohg45wra7dsl0w1cf&dl=0){:target="_blank"}
+{: .paper__links}
 
 </div>
 </div>
